@@ -1,0 +1,8 @@
+<resources>
+  <item name="master_switch" type="id" /><item name="enable_accessibility" type="id" />
+  <item name="open_hongguo" type="id" /><item name="view_logs" type="id" />
+  <item name="today_count" type="id" /><item name="total_count" type="id" />
+  <item name="status_title" type="id" /><item name="cooldown_8" type="id" />
+  <item name="cooldown_12" type="id" /><item name="cooldown_20" type="id" />
+  <item name="landscape_ocr" type="id" />
+</resources>

@@ -1,0 +1,388 @@
+{
+  "time": 1791558524889,
+  "sample": 330,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 6.323667,
+  "nodes": [
+    {
+      "text": "Ai短剧最热榜前十名",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        980,
+        66,
+        1326,
+        46
+      ]
+    },
+    {
+      "text": "万妖图录",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        980,
+        87,
+        1136,
+        145
+      ]
+    },
+    {
+      "text": "找剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        891,
+        208,
+        979,
+        272
+      ]
+    },
+    {
+      "text": "真人剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1023,
+        200,
+        1173,
+        272
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1217,
+        208,
+        1305,
+        272
+      ]
+    },
+    {
+      "text": "电影",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1349,
+        208,
+        1437,
+        272
+      ]
+    },
+    {
+      "text": "听书",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1481,
+        208,
+        1569,
+        272
+      ]
+    },
+    {
+      "text": "小说",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1613,
+        208,
+        1608,
+        272
+      ]
+    },
+    {
+      "text": "漫画",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1745,
+        208,
+        1608,
+        272
+      ]
+    },
+    {
+      "text": "大视听",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1877,
+        208,
+        1608,
+        272
+      ]
+    },
+    {
+      "text": "经典",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        2053,
+        208,
+        1608,
+        272
+      ]
+    },
+    {
+      "text": "知识",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        2185,
+        208,
+        1608,
+        272
+      ]
+    },
+    {
+      "text": "筛选",
+      "description": "",
+      "bounds": [
+        219,
+        322,
+        287,
+        377
+      ]
+    },
+    {
+      "text": "排行榜",
+      "description": "",
+      "bounds": [
+        398,
+        322,
+        466,
+        377
+      ]
+    },
+    {
+      "text": "新剧",
+      "description": "",
+      "bounds": [
+        577,
+        322,
+        645,
+        377
+      ]
+    },
+    {
+      "text": "预约",
+      "description": "",
+      "bounds": [
+        756,
+        322,
+        824,
+        377
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        158,
+        835,
+        191,
+        868
+      ]
+    },
+    {
+      "text": "5788万热度",
+      "description": "",
+      "bounds": [
+        197,
+        827,
+        372,
+        875
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "bounds": [
+        152,
+        433,
+        218,
+        482
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        516,
+        835,
+        549,
+        868
+      ]
+    },
+    {
+      "text": "4930万热度",
+      "description": "",
+      "bounds": [
+        555,
+        827,
+        730,
+        875
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "bounds": [
+        510,
+        433,
+        576,
+        482
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        919,
+        713,
+        952,
+        746
+      ]
+    },
+    {
+      "text": "3986万热度",
+      "description": "",
+      "bounds": [
+        958,
+        705,
+        1133,
+        753
+      ]
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "bounds": [
+        919,
+        797,
+        1199,
+        877
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        1277,
+        713,
+        1310,
+        746
+      ]
+    },
+    {
+      "text": "4310万热度",
+      "description": "",
+      "bounds": [
+        1316,
+        705,
+        1491,
+        753
+      ]
+    },
+    {
+      "text": "移巢",
+      "description": "",
+      "bounds": [
+        1277,
+        797,
+        1557,
+        853
+      ]
+    },
+    {
+      "text": "收藏破200万",
+      "description": "",
+      "bounds": [
+        1288,
+        871,
+        1477,
+        877
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        908,
+        913,
+        996,
+        978
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        1049,
+        912,
+        1141,
+        980
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        1195,
+        913,
+        1283,
+        978
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        1338,
+        913,
+        1426,
+        978
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        1410,
+        896,
+        1454,
+        940
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        1482,
+        913,
+        1570,
+        978
+      ]
+    },
+    {
+      "text": "看剧赚钱",
+      "description": "",
+      "bounds": [
+        1417,
+        567,
+        1582,
+        628
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+artifacts/hongguo-device-countdown/extract.swift:7:39: warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead [#DeprecatedDeclaration]
+ 5 | let output = CommandLine.arguments[2]
+ 6 | let asset = AVURLAsset(url: URL(fileURLWithPath: input))
+ 7 | let duration = CMTimeGetSeconds(asset.duration)
+   |                                       `- warning: 'duration' was deprecated in macOS 13.0: Use load(.duration) instead [#DeprecatedDeclaration]
+ 8 | print("duration=\(duration)")
+ 9 | for track in asset.tracks(withMediaType: .video) { print("size=\(track.naturalSize) transform=\(track.preferredTransform)") }
+
+artifacts/hongguo-device-countdown/extract.swift:9:20: warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead [#DeprecatedDeclaration]
+ 7 | let duration = CMTimeGetSeconds(asset.duration)
+ 8 | print("duration=\(duration)")
+ 9 | for track in asset.tracks(withMediaType: .video) { print("size=\(track.naturalSize) transform=\(track.preferredTransform)") }
+   |                    `- warning: 'tracks(withMediaType:)' was deprecated in macOS 13.0: Use loadTracks(withMediaType:) instead [#DeprecatedDeclaration]
+10 | let generator = AVAssetImageGenerator(asset: asset)
+11 | generator.appliesPreferredTrackTransform = true
+
+artifacts/hongguo-device-countdown/extract.swift:9:72: warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead [#DeprecatedDeclaration]
+ 7 | let duration = CMTimeGetSeconds(asset.duration)
+ 8 | print("duration=\(duration)")
+ 9 | for track in asset.tracks(withMediaType: .video) { print("size=\(track.naturalSize) transform=\(track.preferredTransform)") }
+   |                                                                        `- warning: 'naturalSize' was deprecated in macOS 13.0: Use load(.naturalSize) instead [#DeprecatedDeclaration]
+10 | let generator = AVAssetImageGenerator(asset: asset)
+11 | generator.appliesPreferredTrackTransform = true
+
+artifacts/hongguo-device-countdown/extract.swift:9:103: warning: 'preferredTransform' was deprecated in macOS 13.0: Use load(.preferredTransform) instead [#DeprecatedDeclaration]
+ 7 | let duration = CMTimeGetSeconds(asset.duration)
+ 8 | print("duration=\(duration)")
+ 9 | for track in asset.tracks(withMediaType: .video) { print("size=\(track.naturalSize) transform=\(track.preferredTransform)") }
+   |                                                                                                       `- warning: 'preferredTransform' was deprecated in macOS 13.0: Use load(.preferredTransform) instead [#DeprecatedDeclaration]
+10 | let generator = AVAssetImageGenerator(asset: asset)
+11 | generator.appliesPreferredTrackTransform = true
+
+artifacts/hongguo-device-countdown/extract.swift:16:32: warning: 'copyCGImage(at:actualTime:)' was deprecated in macOS 15.0: Use generateCGImageAsynchronouslyForTime:completionHandler: instead [#DeprecatedDeclaration]
+14 | for second in stride(from: 0.0, to: duration, by: 1.0) {
+15 |     do {
+16 |         let cg = try generator.copyCGImage(at: CMTime(seconds: second, preferredTimescale: 600), actualTime: nil)
+   |                                `- warning: 'copyCGImage(at:actualTime:)' was deprecated in macOS 15.0: Use generateCGImageAsynchronouslyForTime:completionHandler: instead [#DeprecatedDeclaration]
+17 |         let rep = NSBitmapImageRep(cgImage: cg)
+18 |         let data = rep.representation(using: .png, properties: [:])!
+
+[#DeprecatedDeclaration]: <https://docs.swift.org/compiler/documentation/diagnostics/deprecated-declaration>

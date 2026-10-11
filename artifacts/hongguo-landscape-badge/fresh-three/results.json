@@ -1,0 +1,30 @@
+[
+  {
+    "trial": 1,
+    "first_badge_ms": 1791705108193,
+    "attempt_ms": 1791705108745,
+    "badge_to_attempt_ms": 552,
+    "ad_absent_observations": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "badge_exited": true,
+    "decision": "exact upper-right ad badge, no OCR/no skip prompt"
+  },
+  {
+    "trial": 2,
+    "first_badge_ms": 1791705131087,
+    "attempt_ms": 1791705131847,
+    "badge_to_attempt_ms": 760,
+    "ad_absent_observations": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "badge_exited": false,
+    "decision": "exact upper-right ad badge, no OCR/no skip prompt"
+  }
+]

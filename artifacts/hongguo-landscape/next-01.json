@@ -1,0 +1,45 @@
+{
+  "time": 1791699808136,
+  "sample": 69,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 77.059,
+  "nodes": [
+    {
+      "text": "￼（番茄）微短剧备字（2026）第045062号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        66,
+        2065,
+        114
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "￼（番茄）微短剧备字（2026）第045062号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        1146,
+        2274,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

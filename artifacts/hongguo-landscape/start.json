@@ -1,0 +1,627 @@
+{
+  "time": 1791699496371,
+  "sample": 4,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    1080,
+    2340
+  ],
+  "readMs": 1043.637042,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1435,
+        633,
+        1484
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿成穷秀才，我靠医术养全家",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1653,
+        616,
+        1718
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "乡村",
+      "description": "",
+      "bounds": [
+        44,
+        1740,
+        146,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "剧情",
+      "description": "",
+      "bounds": [
+        162,
+        1740,
+        264,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        280,
+        1740,
+        355,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        371,
+        1740,
+        473,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        489,
+        1740,
+        591,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        607,
+        1740,
+        709,
+        1800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        1827,
+        211,
+        1885
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "我有预感，这部剧能爆，留下个痕迹，等火了，希望有人能回复我[鼓掌][鼓掌][爽][爽][爽][爽]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        1827,
+        666,
+        1885
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        1827,
+        778,
+        1885
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        1907,
+        449,
+        1956
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "bounds": [
+        965,
+        1294,
+        1046,
+        1343
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "221",
+      "description": "",
+      "bounds": [
+        943,
+        1490,
+        1069,
+        1529
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "6486",
+      "description": "",
+      "bounds": [
+        943,
+        1680,
+        1069,
+        1724
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1876,
+        1069,
+        1925
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "观看完整漫剧 全119集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        515,
+        2089
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "￼改编自番茄小说《穿成穷秀才，我靠医术养全家》",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        790,
+        1047,
+        838
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "消失十五年，孩子妈飒爽归来",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        3780,
+        616,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        3867,
+        146,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        162,
+        3867,
+        264,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "剧情",
+      "description": "",
+      "bounds": [
+        280,
+        3867,
+        382,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        398,
+        3867,
+        473,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第1集 | 林禾是蒋峤的妻子，三个孩…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        3954,
+        778,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        3954,
+        778,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        4028,
+        449,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "8.4万",
+      "description": "",
+      "bounds": [
+        965,
+        3414,
+        1046,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "278",
+      "description": "",
+      "bounds": [
+        943,
+        3609,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.9万",
+      "description": "",
+      "bounds": [
+        943,
+        3798,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3998,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "观看完整漫剧 全81集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        493,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        343,
+        159,
+        441,
+        230
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        496,
+        159,
+        594,
+        230
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        649,
+        159,
+        747,
+        230
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        82,
+        2173,
+        170,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1049,
+        1002,
+        1071,
+        1034
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        917,
+        1029,
+        1025,
+        1068
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

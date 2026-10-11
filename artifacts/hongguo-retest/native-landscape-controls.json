@@ -1,0 +1,297 @@
+{
+  "time": 1791558755903,
+  "sample": 30,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 45.431208,
+  "nodes": [
+    {
+      "text": "23:12",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        0,
+        1212,
+        -46
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        0,
+        2012,
+        -46
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川 第2集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        0,
+        1850,
+        54
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:00:29",
+      "description": "",
+      "id": "com.phoenix.read:id\/dvf",
+      "bounds": [
+        422,
+        1127,
+        554,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:00:53",
+      "description": "",
+      "id": "com.phoenix.read:id\/dv8",
+      "bounds": [
+        1918,
+        1127,
+        2050,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1722",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        1216,
+        376,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "32",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        1216,
+        518,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        629,
+        1212,
+        696,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        1190,
+        1738,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        1190,
+        1917,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        1187,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "23:12",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        1107,
+        1212,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        1107,
+        2012,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川 第3集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        1178,
+        1850,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1776",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        2048,
+        376,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "56",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        2048,
+        518,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        629,
+        2044,
+        696,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        2022,
+        1738,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        2022,
+        1917,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        2019,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    }
+  ]
+}

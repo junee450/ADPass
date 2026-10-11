@@ -1,0 +1,653 @@
+{
+  "time": 1791558606834,
+  "sample": 407,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 194.9675,
+  "nodes": [
+    {
+      "text": "AI剧新剧榜 No.7",
+      "description": "",
+      "id": "com.phoenix.read:id\/k01",
+      "bounds": [
+        105,
+        0,
+        346,
+        -504
+      ]
+    },
+    {
+      "text": "4807万热度",
+      "description": "",
+      "id": "com.phoenix.read:id\/k00",
+      "bounds": [
+        371,
+        0,
+        546,
+        -504
+      ]
+    },
+    {
+      "text": "演唱会她转头拒吻，我断供撤资离场",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        745,
+        -395
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        0,
+        142,
+        -315
+      ]
+    },
+    {
+      "text": "恋爱",
+      "description": "",
+      "bounds": [
+        158,
+        0,
+        256,
+        -315
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        272,
+        0,
+        370,
+        -315
+      ]
+    },
+    {
+      "text": "第1集 | 周叙隐瞒身份陪伴林诺七年…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        0,
+        449,
+        -165
+      ]
+    },
+    {
+      "text": "7.8万",
+      "description": "",
+      "bounds": [
+        965,
+        0,
+        1046,
+        -779
+      ]
+    },
+    {
+      "text": "1717",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -594
+      ]
+    },
+    {
+      "text": "1.8万",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -395
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -195
+      ]
+    },
+    {
+      "text": "观看完整短剧 全67集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        493,
+        -32
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -32
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1436,
+        633,
+        1485
+      ]
+    },
+    {
+      "text": "@快创剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1732,
+        259,
+        1797
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        44,
+        1819,
+        44,
+        1819
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        1819,
+        142,
+        1877
+      ]
+    },
+    {
+      "text": "恋爱",
+      "description": "",
+      "bounds": [
+        158,
+        1819,
+        256,
+        1877
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        272,
+        1819,
+        370,
+        1877
+      ]
+    },
+    {
+      "text": "48万收藏",
+      "description": "",
+      "bounds": [
+        386,
+        1819,
+        555,
+        1877
+      ]
+    },
+    {
+      "text": "96万点赞",
+      "description": "",
+      "bounds": [
+        571,
+        1819,
+        740,
+        1877
+      ]
+    },
+    {
+      "text": "《八岁鉴真心，寻得良母归》儿子强…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1904,
+        778,
+        1956
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        1904,
+        778,
+        1956
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        995,
+        1062,
+        1108
+      ]
+    },
+    {
+      "text": "5万",
+      "description": "",
+      "bounds": [
+        980,
+        1293,
+        1032,
+        1342
+      ]
+    },
+    {
+      "text": "807",
+      "description": "",
+      "bounds": [
+        943,
+        1488,
+        1069,
+        1527
+      ]
+    },
+    {
+      "text": "4.4万",
+      "description": "",
+      "bounds": [
+        943,
+        1677,
+        1069,
+        1726
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1877,
+        1069,
+        1926
+      ]
+    },
+    {
+      "text": "漫剧 八岁鉴真心，寻得良母归 全83集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        776,
+        2089
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0l",
+      "bounds": [
+        55,
+        3790,
+        121,
+        2121
+      ]
+    },
+    {
+      "text": "金铺风云",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        154,
+        3782,
+        330,
+        2121
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        44,
+        3869,
+        142,
+        2121
+      ]
+    },
+    {
+      "text": "剧情",
+      "description": "",
+      "bounds": [
+        158,
+        3869,
+        256,
+        2121
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        272,
+        3869,
+        345,
+        2121
+      ]
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        361,
+        3869,
+        459,
+        2121
+      ]
+    },
+    {
+      "text": "第1集 | 沈知夏在瑞祥金铺做了多年…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        3954,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        3954,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        4028,
+        449,
+        2121
+      ]
+    },
+    {
+      "text": "48.3万",
+      "description": "",
+      "bounds": [
+        956,
+        3413,
+        1056,
+        2121
+      ]
+    },
+    {
+      "text": "抢首评",
+      "description": "",
+      "bounds": [
+        943,
+        3605,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "12.9万",
+      "description": "",
+      "bounds": [
+        943,
+        3802,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3999,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "观看完整短剧 全53集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        493,
+        2121
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ]
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        288,
+        80,
+        386,
+        151
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        441,
+        80,
+        539,
+        151
+      ]
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        594,
+        80,
+        692,
+        151
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        80,
+        2172,
+        172,
+        2240
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ]
+    }
+  ]
+}

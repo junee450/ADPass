@@ -1,0 +1,778 @@
+{
+  "time": 1791558276033,
+  "sample": 104,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 1080.307251,
+  "nodes": [
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        528,
+        -299
+      ]
+    },
+    {
+      "text": "第16集 | 黎小禾，一个命运多舛的女…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -214
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -214
+      ]
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        0,
+        1056,
+        -801
+      ]
+    },
+    {
+      "text": "1182",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -616
+      ]
+    },
+    {
+      "text": "1.7万",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -417
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -217
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        0,
+        166,
+        -48
+      ]
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        0,
+        469,
+        -48
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第394499号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1036,
+        -1914
+      ]
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1904,
+        528,
+        1969
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        2002,
+        211,
+        2060
+      ]
+    },
+    {
+      "text": "[舔屏]让我们一起大喊本剧大爆！！！超爆！[爱慕][爱慕][爱慕][送花]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        2002,
+        666,
+        2060
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        2002,
+        778,
+        2060
+      ]
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        1424,
+        1056,
+        1473
+      ]
+    },
+    {
+      "text": "732",
+      "description": "",
+      "bounds": [
+        943,
+        1619,
+        1069,
+        1658
+      ]
+    },
+    {
+      "text": "1.9万",
+      "description": "",
+      "bounds": [
+        943,
+        1808,
+        1069,
+        1857
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        2008,
+        1069,
+        2057
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        2168,
+        166,
+        2226
+      ]
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        2168,
+        469,
+        2226
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第394499号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        312,
+        1036,
+        360
+      ]
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        4178,
+        528,
+        2274
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        4276,
+        211,
+        2274
+      ]
+    },
+    {
+      "text": "王彦鑫高文干气质[赞][赞][赞]，霸总范儿[爱慕][爱慕]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        4276,
+        666,
+        2274
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        4276,
+        778,
+        2274
+      ]
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        3698,
+        1056,
+        2274
+      ]
+    },
+    {
+      "text": "259",
+      "description": "",
+      "bounds": [
+        943,
+        3893,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "1.6万",
+      "description": "",
+      "bounds": [
+        943,
+        4082,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        4282,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        4442,
+        166,
+        2274
+      ]
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        4442,
+        469,
+        2274
+      ]
+    },
+    {
+      "text": "第17集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        121,
+        136,
+        720,
+        257
+      ]
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        841,
+        170,
+        915,
+        222
+      ]
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/i42",
+      "bounds": [
+        1399,
+        301,
+        1080,
+        381
+      ]
+    },
+    {
+      "text": "全80集",
+      "description": "",
+      "bounds": [
+        1399,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "红果热度值3986万",
+      "description": "",
+      "bounds": [
+        1533,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "郑晨雨",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1454,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "王彦鑫",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1688,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "李百万",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1922,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "简介",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3e",
+      "bounds": [
+        1124,
+        692,
+        1080,
+        757
+      ]
+    },
+    {
+      "text": "现代",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "灰姑娘",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "爱情",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "都市爱情",
+      "description": "",
+      "bounds": [
+        1377,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "日久生情",
+      "description": "",
+      "bounds": [
+        1575,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "真相大白",
+      "description": "",
+      "bounds": [
+        1773,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "总裁",
+      "description": "",
+      "bounds": [
+        1971,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "黎小禾，一个命运多舛的女子，为替弟弟顶罪锒铛入狱。狱中，她受尽家人冷漠，独自承受生子之痛，孩子却阴差阳错与她分离。出狱后，她以为人生只剩灰暗，却…",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3d",
+      "bounds": [
+        1124,
+        785,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/i4t",
+      "bounds": [
+        2038,
+        923,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "剧集",
+      "description": "",
+      "id": "com.phoenix.read:id\/title",
+      "bounds": [
+        1124,
+        1072,
+        1080,
+        1137
+      ]
+    },
+    {
+      "text": "已完结 共80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hz2",
+      "bounds": [
+        1880,
+        1080,
+        1080,
+        1129
+      ]
+    },
+    {
+      "text": "1-30",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1080,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "31-60",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1271,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "61-80",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1480,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "14",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1080,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "15",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1239,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "16",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1408,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "17",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1577,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "18",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1746,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "19",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1915,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "20",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        2084,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "剧评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jx0",
+      "bounds": [
+        1124,
+        1554,
+        1080,
+        1619
+      ]
+    },
+    {
+      "text": "未开分",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_n",
+      "bounds": [
+        1168,
+        1724,
+        1080,
+        1772
+      ]
+    },
+    {
+      "text": "红果分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k2z",
+      "bounds": [
+        1365,
+        1696,
+        1080,
+        1744
+      ]
+    },
+    {
+      "text": "点击或滑动评分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7z",
+      "bounds": [
+        1747,
+        1685,
+        1080,
+        1734
+      ]
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/k9t",
+      "bounds": [
+        1080,
+        136,
+        1080,
+        257
+      ]
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "id": "com.phoenix.read:id\/c88",
+      "bounds": [
+        1349,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/gq3",
+      "bounds": [
+        1819,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        1021,
+        1048,
+        1076
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        1001,
+        1054,
+        1034
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        931,
+        1026,
+        987
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        987,
+        1026,
+        1043
+      ]
+    }
+  ]
+}

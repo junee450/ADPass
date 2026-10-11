@@ -1,0 +1,274 @@
+{
+  "time": 1791558356852,
+  "sample": 175,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 4.440208,
+  "nodes": [
+    {
+      "text": "倍速",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        759,
+        238,
+        817
+      ]
+    },
+    {
+      "text": "0.75x",
+      "description": "",
+      "bounds": [
+        392,
+        741,
+        493,
+        835
+      ]
+    },
+    {
+      "text": "1x",
+      "description": "",
+      "bounds": [
+        493,
+        741,
+        594,
+        835
+      ]
+    },
+    {
+      "text": "1.25x",
+      "description": "",
+      "bounds": [
+        594,
+        741,
+        695,
+        835
+      ]
+    },
+    {
+      "text": "1.5x",
+      "description": "",
+      "bounds": [
+        695,
+        741,
+        796,
+        835
+      ]
+    },
+    {
+      "text": "2x",
+      "description": "",
+      "bounds": [
+        796,
+        741,
+        897,
+        835
+      ]
+    },
+    {
+      "text": "3x",
+      "description": "",
+      "bounds": [
+        897,
+        741,
+        998,
+        835
+      ]
+    },
+    {
+      "text": "清晰度",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        909,
+        277,
+        967
+      ]
+    },
+    {
+      "text": "360P",
+      "description": "",
+      "bounds": [
+        463,
+        891,
+        570,
+        985
+      ]
+    },
+    {
+      "text": "480P",
+      "description": "",
+      "bounds": [
+        570,
+        891,
+        677,
+        985
+      ]
+    },
+    {
+      "text": "540P",
+      "description": "",
+      "bounds": [
+        677,
+        891,
+        784,
+        985
+      ]
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "bounds": [
+        784,
+        891,
+        891,
+        985
+      ]
+    },
+    {
+      "text": "1080P",
+      "description": "",
+      "bounds": [
+        891,
+        891,
+        998,
+        985
+      ]
+    },
+    {
+      "text": "不感兴趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1059,
+        316,
+        1117
+      ]
+    },
+    {
+      "text": "清屏播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1208,
+        316,
+        1266
+      ]
+    },
+    {
+      "text": "弹幕",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1356,
+        238,
+        1414
+      ]
+    },
+    {
+      "text": "下载到本地",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1504,
+        355,
+        1562
+      ]
+    },
+    {
+      "text": "字体大小",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1652,
+        316,
+        1710
+      ]
+    },
+    {
+      "text": "标准",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        876,
+        1657,
+        942,
+        1706
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1834,
+        238,
+        1892
+      ]
+    },
+    {
+      "text": "投屏",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        1983,
+        238,
+        2041
+      ]
+    },
+    {
+      "text": "定时关闭",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        2132,
+        316,
+        2190
+      ]
+    },
+    {
+      "text": "识图找同款",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        2281,
+        355,
+        2274
+      ]
+    },
+    {
+      "text": "小窗模式",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        2429,
+        316,
+        2274
+      ]
+    },
+    {
+      "text": "举报",
+      "description": "",
+      "id": "com.phoenix.read:id\/action_text",
+      "bounds": [
+        160,
+        2578,
+        238,
+        2274
+      ]
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "time": 1791559443689,
+  "sample": 397,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    1080,
+    2340
+  ],
+  "readMs": 892.203584,
+  "nodes": [
+    {
+      "text": "月慵便枕玉凉梦第十四季",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        122,
+        166,
+        551,
+        224
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月慵便枕玉凉梦大结局",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        122,
+        145,
+        512,
+        125
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "识剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/hsd",
+      "bounds": [
+        936,
+        165,
+        1014,
+        223
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "找剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        33,
+        287,
+        121,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "真人剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        165,
+        279,
+        315,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        359,
+        287,
+        447,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "电影",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        491,
+        287,
+        579,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "听书",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        623,
+        287,
+        711,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "小说",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        755,
+        287,
+        843,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "漫画",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        887,
+        287,
+        975,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "大视听",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1019,
+        287,
+        1069,
+        351
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "经典",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1195,
+        287,
+        1069,
+        351
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "知识",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1327,
+        287,
+        1069,
+        351
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "筛选",
+      "description": "",
+      "bounds": [
+        -958,
+        401,
+        -882,
+        456
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "排行榜",
+      "description": "",
+      "bounds": [
+        -699,
+        401,
+        -585,
+        456
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "新剧",
+      "description": "",
+      "bounds": [
+        -440,
+        401,
+        -364,
+        456
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "预约",
+      "description": "",
+      "bounds": [
+        -181,
+        401,
+        -105,
+        456
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -1019,
+        1138,
+        -986,
+        1171
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "4955万热度",
+      "description": "",
+      "bounds": [
+        -980,
+        1130,
+        -805,
+        1178
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "预约上新",
+      "description": "",
+      "bounds": [
+        -1025,
+        512,
+        -893,
+        561
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "蚀骨罪第五季",
+      "description": "",
+      "bounds": [
+        -1019,
+        1222,
+        -579,
+        1278
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "女频·漫剧新剧榜 No.3",
+      "description": "",
+      "bounds": [
+        -1008,
+        1296,
+        -689,
+        1344
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "推荐理由箭头",
+      "bounds": [
+        -683,
+        1301,
+        -655,
+        1339
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "Continue Watch Double Card Cover",
+      "bounds": [
+        -507,
+        528,
+        -408,
+        666
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "Cover mask",
+      "bounds": [
+        -471,
+        583,
+        -443,
+        611
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "红绸断旧缘冲喜丫头要跑路第三季",
+      "description": "",
+      "bounds": [
+        -386,
+        540,
+        -55,
+        595
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "已看到59\/107集",
+      "description": "",
+      "bounds": [
+        -386,
+        606,
+        -145,
+        654
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "continue_watch_bottom_button_icon",
+      "bounds": [
+        -370,
+        710,
+        -331,
+        749
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "bounds": [
+        -323,
+        705,
+        -191,
+        753
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -501,
+        1446,
+        -468,
+        1479
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "3802万热度",
+      "description": "",
+      "bounds": [
+        -462,
+        1438,
+        -287,
+        1486
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "东宫昭辞",
+      "description": "",
+      "bounds": [
+        -501,
+        1530,
+        -61,
+        1586
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "爱恨纠葛",
+      "description": "",
+      "bounds": [
+        -490,
+        1604,
+        -358,
+        1652
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        -325,
+        1604,
+        -284,
+        1643
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        -251,
+        1604,
+        -185,
+        1652
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -1019,
+        2026,
+        -986,
+        2059
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "4725万热度",
+      "description": "",
+      "bounds": [
+        -980,
+        2018,
+        -805,
+        2066
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "帝金枝",
+      "description": "",
+      "bounds": [
+        -1019,
+        2110,
+        -579,
+        2137
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        82,
+        2173,
+        170,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        287,
+        2172,
+        379,
+        2240
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1189金币",
+      "description": "",
+      "bounds": [
+        897,
+        1504,
+        1025,
+        1548
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "Close Button",
+      "bounds": [
+        955,
+        1259,
+        1080,
+        1391
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": true
+    }
+  ]
+}

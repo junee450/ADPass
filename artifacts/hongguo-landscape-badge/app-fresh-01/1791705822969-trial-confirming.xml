@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="last-action" value="1791705670971" />
+    <int name="total" value="5" />
+    <boolean name="landscape-ocr" value="true" />
+    <int name="today" value="2" />
+    <int name="cooldown" value="8" />
+    <string name="logs">[{&quot;time&quot;:1791705672691,&quot;message&quot;:&quot;已确认横屏广告退出并返回剧集&quot;},{&quot;time&quot;:1791705671333,&quot;message&quot;:&quot;横屏试滑已完成，正在检查是否退出&quot;},{&quot;time&quot;:1791705671330,&quot;message&quot;:&quot;已执行一次广告上滑&quot;},{&quot;time&quot;:1791705670973,&quot;message&quot;:&quot;根据横屏广告标记尝试上滑一次&quot;},{&quot;time&quot;:1791705667886,&quot;message&quot;:&quot;自动跳过已开启&quot;},{&quot;time&quot;:1791705607060,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791704533129,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791701745761,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791701456819,&quot;message&quot;:&quot;自动跳过已暂停&quot;},{&quot;time&quot;:1791701371732,&quot;message&quot;:&quot;已完成横屏广告上滑&quot;},{&quot;time&quot;:1791701371732,&quot;message&quot;:&quot;已执行一次广告上滑&quot;},{&quot;time&quot;:1791701246937,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791701222114,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791699447134,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791562816799,&quot;message&quot;:&quot;已执行一次广告上滑&quot;},{&quot;time&quot;:1791562809172,&quot;message&quot;:&quot;自动跳过已开启&quot;},{&quot;time&quot;:1791562478451,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791562037118,&quot;message&quot;:&quot;自动跳过已暂停&quot;},{&quot;time&quot;:1791562005549,&quot;message&quot;:&quot;自动跳过已开启&quot;},{&quot;time&quot;:1791561938390,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791561898946,&quot;message&quot;:&quot;自动跳过已暂停&quot;},{&quot;time&quot;:1791561812454,&quot;message&quot;:&quot;已执行一次广告上滑&quot;},{&quot;time&quot;:1791561741385,&quot;message&quot;:&quot;已执行一次广告上滑&quot;},{&quot;time&quot;:1791561716286,&quot;message&quot;:&quot;自动跳过已开启&quot;},{&quot;time&quot;:1791561657401,&quot;message&quot;:&quot;无障碍服务已连接&quot;},{&quot;time&quot;:1791561619318,&quot;message&quot;:&quot;无障碍服务已连接&quot;}]</string>
+    <string name="day">2026-10-11</string>
+    <boolean name="enabled" value="true" />
+    <string name="status">trial-confirming</string>
+    <boolean name="landscape-tried" value="false" />
+</map>

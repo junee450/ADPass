@@ -1,0 +1,757 @@
+{
+  "time": 1791557196300,
+  "sample": 351,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 1167.923459,
+  "nodes": [
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        245,
+        -305
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        0,
+        211,
+        -214
+      ]
+    },
+    {
+      "text": "真幸福啊 4上了看完了直接就看5[爱慕]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        0,
+        666,
+        -214
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        0,
+        778,
+        -214
+      ]
+    },
+    {
+      "text": "20.1万",
+      "description": "",
+      "bounds": [
+        956,
+        0,
+        1056,
+        -800
+      ]
+    },
+    {
+      "text": "539",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -614
+      ]
+    },
+    {
+      "text": "7260",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -419
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -218
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        0,
+        166,
+        -48
+      ]
+    },
+    {
+      "text": " · 已完结 · 全71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        0,
+        469,
+        -48
+      ]
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1904,
+        245,
+        1969
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        2002,
+        211,
+        2060
+      ]
+    },
+    {
+      "text": "顾珩嘛瞪撤眼滴越来越招人“稀罕”，更别说康王了[笑哭]，我咋感觉他比演绎第一部时更年轻更亮眼了，那个哏劲儿不是谁都演绎出来滴 [爱慕]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        2002,
+        666,
+        2060
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        2002,
+        778,
+        2060
+      ]
+    },
+    {
+      "text": "20.1万",
+      "description": "",
+      "bounds": [
+        956,
+        1425,
+        1056,
+        1474
+      ]
+    },
+    {
+      "text": "294",
+      "description": "",
+      "bounds": [
+        943,
+        1621,
+        1069,
+        1660
+      ]
+    },
+    {
+      "text": "6889",
+      "description": "",
+      "bounds": [
+        943,
+        1811,
+        1069,
+        1855
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        2007,
+        1069,
+        2056
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        2168,
+        166,
+        2226
+      ]
+    },
+    {
+      "text": " · 已完结 · 全71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        2168,
+        469,
+        2226
+      ]
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        4178,
+        245,
+        2274
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        4276,
+        211,
+        2274
+      ]
+    },
+    {
+      "text": "这部剧一共5季~可算是让我过了一把明川的瘾~太喜欢他了[爱慕][爱慕][爱慕]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        4276,
+        666,
+        2274
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        4276,
+        778,
+        2274
+      ]
+    },
+    {
+      "text": "20.1万",
+      "description": "",
+      "bounds": [
+        956,
+        3699,
+        1056,
+        2274
+      ]
+    },
+    {
+      "text": "377",
+      "description": "",
+      "bounds": [
+        943,
+        3895,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "8158",
+      "description": "",
+      "bounds": [
+        943,
+        4085,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        4281,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        4442,
+        166,
+        2274
+      ]
+    },
+    {
+      "text": " · 已完结 · 全71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        4442,
+        469,
+        2274
+      ]
+    },
+    {
+      "text": "第4集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        121,
+        136,
+        720,
+        257
+      ]
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        841,
+        170,
+        915,
+        222
+      ]
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/i42",
+      "bounds": [
+        1399,
+        301,
+        1080,
+        381
+      ]
+    },
+    {
+      "text": "全71集",
+      "description": "",
+      "bounds": [
+        1399,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "红果热度值4588万",
+      "description": "",
+      "bounds": [
+        1533,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "韩乐瑶",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1454,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "明川",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1688,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "严毕颖",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1884,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "简介",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3e",
+      "bounds": [
+        1124,
+        692,
+        1080,
+        757
+      ]
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "古装",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "朝堂权谋",
+      "description": "",
+      "bounds": [
+        1377,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "古风爱情",
+      "description": "",
+      "bounds": [
+        1575,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "揭露阴谋",
+      "description": "",
+      "bounds": [
+        1773,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "世子",
+      "description": "",
+      "bounds": [
+        1971,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "“你如今要怀着我的孩子嫁人了”陆昭宁扑朔迷离不为人知的身世，顾珩隐忍多年的惊天秘密本季全部揭开！当家国大义与个人情爱激烈碰撞，一场关乎朝堂格局与二…",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3d",
+      "bounds": [
+        1124,
+        785,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/i4t",
+      "bounds": [
+        2038,
+        923,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "剧集",
+      "description": "",
+      "id": "com.phoenix.read:id\/title",
+      "bounds": [
+        1124,
+        1072,
+        1080,
+        1137
+      ]
+    },
+    {
+      "text": "已完结 共71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hz2",
+      "bounds": [
+        1880,
+        1080,
+        1080,
+        1129
+      ]
+    },
+    {
+      "text": "1-30",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1080,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "31-60",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1271,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "61-71",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1480,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "1",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1081,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "2",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1250,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "3",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1419,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "4",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1588,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "5",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1757,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "6",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1926,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "7",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        2095,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "剧评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jx0",
+      "bounds": [
+        1124,
+        1554,
+        1080,
+        1619
+      ]
+    },
+    {
+      "text": "未开分",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_n",
+      "bounds": [
+        1168,
+        1724,
+        1080,
+        1772
+      ]
+    },
+    {
+      "text": "红果分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k2z",
+      "bounds": [
+        1365,
+        1696,
+        1080,
+        1744
+      ]
+    },
+    {
+      "text": "点击或滑动评分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7z",
+      "bounds": [
+        1747,
+        1685,
+        1080,
+        1734
+      ]
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/k9t",
+      "bounds": [
+        1080,
+        136,
+        1080,
+        257
+      ]
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "id": "com.phoenix.read:id\/c88",
+      "bounds": [
+        1349,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/gq3",
+      "bounds": [
+        1819,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        1021,
+        1048,
+        1076
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        1001,
+        1054,
+        1034
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        931,
+        1026,
+        987
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        987,
+        1026,
+        1043
+      ]
+    }
+  ]
+}

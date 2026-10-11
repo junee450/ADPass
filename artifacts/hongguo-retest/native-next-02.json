@@ -1,0 +1,171 @@
+{
+  "time": 1791558824004,
+  "sample": 95,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 30.231042,
+  "nodes": [
+    {
+      "text": "（番茄）网微剧备字（2026）第1010233号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        66,
+        2274,
+        114
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "23:13",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        1107,
+        1212,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        1107,
+        2012,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川 第5集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        1178,
+        1850,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1467",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        2048,
+        376,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "抢首评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        2044,
+        570,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        680,
+        2044,
+        747,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        2022,
+        1738,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        2022,
+        1917,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        2019,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第1010233号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        1146,
+        2274,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

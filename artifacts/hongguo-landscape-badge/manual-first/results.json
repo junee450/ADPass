@@ -1,0 +1,16 @@
+[
+  {
+    "trial": 1,
+    "first_badge_ms": 1791705034990,
+    "attempt_ms": 1791705035783,
+    "badge_to_attempt_ms": 793,
+    "ad_absent_observations": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "badge_exited": true,
+    "decision": "exact upper-right ad badge, no OCR/no skip prompt"
+  }
+]

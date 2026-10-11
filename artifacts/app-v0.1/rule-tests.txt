@@ -1,0 +1,2 @@
+PASS: 24 confirmation and action-gate checks
+PASS: 39 recorded page fixtures

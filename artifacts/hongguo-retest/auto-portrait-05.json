@@ -1,0 +1,1004 @@
+{
+  "time": 1791558993699,
+  "sample": 31,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    1080,
+    2340
+  ],
+  "readMs": 294.099291,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -790
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        220,
+        -370
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第11集 | 许清宜本是现代打工人，却…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -285
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -285
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        0,
+        449,
+        -214
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "bounds": [
+        965,
+        0,
+        1046,
+        -800
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "25",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -614
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1104",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -419
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -218
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        0,
+        166,
+        -48
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        0,
+        491,
+        -48
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第1010233号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1047,
+        -1437
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1435,
+        633,
+        1484
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1839,
+        220,
+        1904
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第12集 | 许清宜本是现代打工人，却…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1937,
+        778,
+        1989
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        1937,
+        778,
+        1989
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        2011,
+        449,
+        2060
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "bounds": [
+        965,
+        1425,
+        1046,
+        1474
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "10",
+      "description": "",
+      "bounds": [
+        943,
+        1621,
+        1069,
+        1660
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "992",
+      "description": "",
+      "bounds": [
+        943,
+        1811,
+        1069,
+        1855
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        2007,
+        1069,
+        2056
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        2168,
+        166,
+        2226
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        2168,
+        491,
+        2226
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第1010233号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        789,
+        1047,
+        837
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3709,
+        633,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        4113,
+        220,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第13集 | 许清宜本是现代打工人，却…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        4211,
+        778,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        4211,
+        778,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        4285,
+        449,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7.3万",
+      "description": "",
+      "bounds": [
+        965,
+        3699,
+        1046,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "11",
+      "description": "",
+      "bounds": [
+        943,
+        3895,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "908",
+      "description": "",
+      "bounds": [
+        943,
+        4085,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        4281,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        4442,
+        166,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        4442,
+        491,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "第12集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        121,
+        136,
+        720,
+        257
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        841,
+        170,
+        915,
+        222
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川",
+      "description": "",
+      "id": "com.phoenix.read:id\/i42",
+      "bounds": [
+        1399,
+        301,
+        1080,
+        381
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全121集",
+      "description": "",
+      "bounds": [
+        1399,
+        409,
+        1080,
+        465
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "红果热度值4484万",
+      "description": "",
+      "bounds": [
+        1554,
+        409,
+        1080,
+        465
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "简介",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3e",
+      "bounds": [
+        1124,
+        692,
+        1080,
+        757
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "家族",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        1377,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        1509,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        1641,
+        685,
+        1080,
+        756
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "许清宜本是现代打工人，却无意间穿越到古代，成了永安侯府的二小姐，阴差阳错换嫁给了当代第一将军，兼顶流美男平阳侯府的世子谢韫之，而令人崩溃的是世子…",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3d",
+      "bounds": [
+        1124,
+        785,
+        1080,
+        981
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/i4t",
+      "bounds": [
+        2038,
+        923,
+        1080,
+        981
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧集",
+      "description": "",
+      "id": "com.phoenix.read:id\/title",
+      "bounds": [
+        1124,
+        1072,
+        1080,
+        1137
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "已完结 共121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hz2",
+      "bounds": [
+        1861,
+        1080,
+        1080,
+        1129
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "1-30",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1080,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "31-60",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1271,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "61-90",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1480,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "91-120",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1689,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "121-121",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1920,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "9",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1081,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "10",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1239,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "11",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1408,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "12",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1577,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "13",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1746,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "14",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1915,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "15",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        2084,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jx0",
+      "bounds": [
+        1124,
+        1554,
+        1080,
+        1619
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "未开分",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_n",
+      "bounds": [
+        1168,
+        1724,
+        1080,
+        1772
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "红果分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k2z",
+      "bounds": [
+        1365,
+        1696,
+        1080,
+        1744
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击或滑动评分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7z",
+      "bounds": [
+        1747,
+        1685,
+        1080,
+        1734
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "月照澜川",
+      "description": "",
+      "id": "com.phoenix.read:id\/k9t",
+      "bounds": [
+        1080,
+        136,
+        1080,
+        257
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "id": "com.phoenix.read:id\/c88",
+      "bounds": [
+        1349,
+        2163,
+        1080,
+        2221
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/gq3",
+      "bounds": [
+        1819,
+        2163,
+        1080,
+        2221
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

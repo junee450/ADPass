@@ -1,0 +1,719 @@
+{
+  "time": 1791556863239,
+  "sample": 95,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "readMs": 153.55525,
+  "nodes": [
+    {
+      "text": "万妖图录传",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        122,
+        87,
+        317,
+        145
+      ]
+    },
+    {
+      "text": "预约榜NO.2",
+      "description": "",
+      "id": "com.phoenix.read:id\/d17",
+      "bounds": [
+        339,
+        97,
+        469,
+        134
+      ]
+    },
+    {
+      "text": "万妖图录",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7",
+      "bounds": [
+        122,
+        66,
+        278,
+        46
+      ]
+    },
+    {
+      "text": "找剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        33,
+        208,
+        121,
+        272
+      ]
+    },
+    {
+      "text": "真人剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        165,
+        200,
+        315,
+        272
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        359,
+        208,
+        447,
+        272
+      ]
+    },
+    {
+      "text": "电影",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        491,
+        208,
+        579,
+        272
+      ]
+    },
+    {
+      "text": "听书",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        623,
+        208,
+        711,
+        272
+      ]
+    },
+    {
+      "text": "小说",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        755,
+        208,
+        843,
+        272
+      ]
+    },
+    {
+      "text": "漫画",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        887,
+        208,
+        975,
+        272
+      ]
+    },
+    {
+      "text": "大视听",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1019,
+        208,
+        1069,
+        272
+      ]
+    },
+    {
+      "text": "经典",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1195,
+        208,
+        1069,
+        272
+      ]
+    },
+    {
+      "text": "知识",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        1327,
+        208,
+        1069,
+        272
+      ]
+    },
+    {
+      "text": "筛选",
+      "description": "",
+      "bounds": [
+        -958,
+        322,
+        -882,
+        377
+      ]
+    },
+    {
+      "text": "排行榜",
+      "description": "",
+      "bounds": [
+        -699,
+        322,
+        -585,
+        377
+      ]
+    },
+    {
+      "text": "新剧",
+      "description": "",
+      "bounds": [
+        -440,
+        322,
+        -364,
+        377
+      ]
+    },
+    {
+      "text": "预约",
+      "description": "",
+      "bounds": [
+        -181,
+        322,
+        -105,
+        377
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -1019,
+        1059,
+        -986,
+        1092
+      ]
+    },
+    {
+      "text": "5788万热度",
+      "description": "",
+      "bounds": [
+        -980,
+        1051,
+        -805,
+        1099
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "bounds": [
+        -1025,
+        433,
+        -959,
+        482
+      ]
+    },
+    {
+      "text": "秦始皇：朕有华夏全明星阵容",
+      "description": "",
+      "bounds": [
+        -1019,
+        1143,
+        -579,
+        1253
+      ]
+    },
+    {
+      "text": "古代·漫剧热播榜 No.4",
+      "description": "",
+      "bounds": [
+        -1008,
+        1271,
+        -689,
+        1319
+      ]
+    },
+    {
+      "text": "",
+      "description": "推荐理由箭头",
+      "bounds": [
+        -683,
+        1276,
+        -655,
+        1314
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -501,
+        1059,
+        -468,
+        1092
+      ]
+    },
+    {
+      "text": "4930万热度",
+      "description": "",
+      "bounds": [
+        -462,
+        1051,
+        -287,
+        1099
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "bounds": [
+        -507,
+        433,
+        -441,
+        482
+      ]
+    },
+    {
+      "text": "归墟第一季",
+      "description": "",
+      "bounds": [
+        -501,
+        1143,
+        -61,
+        1199
+      ]
+    },
+    {
+      "text": "AI剧收藏榜 No.1",
+      "description": "",
+      "bounds": [
+        -490,
+        1217,
+        -248,
+        1265
+      ]
+    },
+    {
+      "text": "",
+      "description": "推荐理由箭头",
+      "bounds": [
+        -242,
+        1222,
+        -214,
+        1260
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -501,
+        1947,
+        -468,
+        1980
+      ]
+    },
+    {
+      "text": "4988万热度",
+      "description": "",
+      "bounds": [
+        -462,
+        1939,
+        -287,
+        1987
+      ]
+    },
+    {
+      "text": "荒岛谁惯着她们",
+      "description": "",
+      "bounds": [
+        -501,
+        2031,
+        -61,
+        2087
+      ]
+    },
+    {
+      "text": "求生",
+      "description": "",
+      "bounds": [
+        -490,
+        2105,
+        -424,
+        2137
+      ]
+    },
+    {
+      "text": "系统",
+      "description": "",
+      "bounds": [
+        -391,
+        2105,
+        -325,
+        2137
+      ]
+    },
+    {
+      "text": "脑洞",
+      "description": "",
+      "bounds": [
+        -292,
+        2105,
+        -226,
+        2137
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        -1019,
+        2001,
+        -986,
+        2034
+      ]
+    },
+    {
+      "text": "6053万热度",
+      "description": "",
+      "bounds": [
+        -980,
+        1993,
+        -805,
+        2041
+      ]
+    },
+    {
+      "text": "爆款新剧",
+      "description": "",
+      "bounds": [
+        -1025,
+        1375,
+        -893,
+        1424
+      ]
+    },
+    {
+      "text": "人到中年，系统逼我年少轻狂",
+      "description": "",
+      "bounds": [
+        -1019,
+        2085,
+        -579,
+        2137
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        61,
+        937,
+        94,
+        970
+      ]
+    },
+    {
+      "text": "3626万热度",
+      "description": "",
+      "bounds": [
+        100,
+        929,
+        275,
+        977
+      ]
+    },
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "bounds": [
+        61,
+        1021,
+        501,
+        1131
+      ]
+    },
+    {
+      "text": "爱情",
+      "description": "",
+      "bounds": [
+        72,
+        1149,
+        138,
+        1197
+      ]
+    },
+    {
+      "text": "都市爱情",
+      "description": "",
+      "bounds": [
+        171,
+        1149,
+        303,
+        1197
+      ]
+    },
+    {
+      "text": "女性成长",
+      "description": "",
+      "bounds": [
+        336,
+        1149,
+        468,
+        1197
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        579,
+        937,
+        612,
+        970
+      ]
+    },
+    {
+      "text": "4588万热度",
+      "description": "",
+      "bounds": [
+        618,
+        929,
+        793,
+        977
+      ]
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "bounds": [
+        579,
+        1021,
+        1019,
+        1077
+      ]
+    },
+    {
+      "text": "古风爱情榜 No.1",
+      "description": "",
+      "bounds": [
+        590,
+        1095,
+        834,
+        1143
+      ]
+    },
+    {
+      "text": "",
+      "description": "推荐理由箭头",
+      "bounds": [
+        840,
+        1100,
+        868,
+        1138
+      ]
+    },
+    {
+      "text": "古装",
+      "description": "",
+      "bounds": [
+        901,
+        1095,
+        967,
+        1143
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        579,
+        1825,
+        612,
+        1858
+      ]
+    },
+    {
+      "text": "2426万热度",
+      "description": "",
+      "bounds": [
+        618,
+        1817,
+        793,
+        1865
+      ]
+    },
+    {
+      "text": "重生老妈来收你们了",
+      "description": "",
+      "bounds": [
+        579,
+        1909,
+        1019,
+        1965
+      ]
+    },
+    {
+      "text": "家庭",
+      "description": "",
+      "bounds": [
+        590,
+        1983,
+        656,
+        2031
+      ]
+    },
+    {
+      "text": "家庭伦理",
+      "description": "",
+      "bounds": [
+        689,
+        1983,
+        821,
+        2031
+      ]
+    },
+    {
+      "text": "重生逆袭",
+      "description": "",
+      "bounds": [
+        854,
+        1983,
+        986,
+        2031
+      ]
+    },
+    {
+      "text": "",
+      "description": "封面底部信息",
+      "bounds": [
+        61,
+        1879,
+        94,
+        1912
+      ]
+    },
+    {
+      "text": "4280万热度",
+      "description": "",
+      "bounds": [
+        100,
+        1871,
+        275,
+        1919
+      ]
+    },
+    {
+      "text": "女相师",
+      "description": "",
+      "bounds": [
+        61,
+        1963,
+        501,
+        2019
+      ]
+    },
+    {
+      "text": "收藏破700万",
+      "description": "",
+      "bounds": [
+        72,
+        2037,
+        261,
+        2085
+      ]
+    },
+    {
+      "text": "点赞破400万",
+      "description": "",
+      "bounds": [
+        294,
+        2037,
+        483,
+        2085
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        82,
+        2173,
+        170,
+        2238
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        287,
+        2172,
+        379,
+        2240
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    },
+    {
+      "text": "领6739金币",
+      "description": "",
+      "bounds": [
+        872,
+        1495,
+        1048,
+        1556
+      ]
+    }
+  ]
+}

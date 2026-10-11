@@ -1,0 +1,736 @@
+{
+  "time": 1791558627063,
+  "sample": 420,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 1149.239125,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -1296
+      ]
+    },
+    {
+      "text": "@枕月漫观",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        259,
+        -963
+      ]
+    },
+    {
+      "text": "第1集 | 岁晚情未歇01",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -878
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        -1894,
+        1062,
+        -1781
+      ]
+    },
+    {
+      "text": "2.9万",
+      "description": "",
+      "bounds": [
+        965,
+        0,
+        1046,
+        -1711
+      ]
+    },
+    {
+      "text": "139",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -1638
+      ]
+    },
+    {
+      "text": "5387",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -1443
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -2026
+      ]
+    },
+    {
+      "text": "合集 岁晚情未歇 更新至70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        620,
+        -1929
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -1984
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -624
+      ]
+    },
+    {
+      "text": "朝朝暮暮祈重逢",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        352,
+        -409
+      ]
+    },
+    {
+      "text": "萌宝",
+      "description": "",
+      "bounds": [
+        44,
+        0,
+        142,
+        -329
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        158,
+        0,
+        231,
+        -338
+      ]
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        247,
+        0,
+        345,
+        -329
+      ]
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        361,
+        0,
+        459,
+        -329
+      ]
+    },
+    {
+      "text": "第5集 | 宫女闻暮为保全皇子萧景渊…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        0,
+        449,
+        -165
+      ]
+    },
+    {
+      "text": "6.1万",
+      "description": "",
+      "bounds": [
+        965,
+        0,
+        1046,
+        -778
+      ]
+    },
+    {
+      "text": "142",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -592
+      ]
+    },
+    {
+      "text": "7456",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -397
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -196
+      ]
+    },
+    {
+      "text": "观看完整漫剧 全118集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        515,
+        -32
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -32
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第884603号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1047,
+        -1283
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1436,
+        633,
+        1485
+      ]
+    },
+    {
+      "text": "@用户23292041",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1732,
+        371,
+        1797
+      ]
+    },
+    {
+      "text": "第1季",
+      "description": "",
+      "bounds": [
+        44,
+        1819,
+        161,
+        1877
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        177,
+        1819,
+        250,
+        1868
+      ]
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        266,
+        1819,
+        364,
+        1877
+      ]
+    },
+    {
+      "text": "家族",
+      "description": "",
+      "bounds": [
+        380,
+        1819,
+        478,
+        1877
+      ]
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        494,
+        1819,
+        592,
+        1877
+      ]
+    },
+    {
+      "text": "世子醒来会怎样？《月照澜川》",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1904,
+        778,
+        1956
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        995,
+        1062,
+        1108
+      ]
+    },
+    {
+      "text": "1117",
+      "description": "",
+      "bounds": [
+        968,
+        1295,
+        1044,
+        1339
+      ]
+    },
+    {
+      "text": "14",
+      "description": "",
+      "bounds": [
+        943,
+        1487,
+        1069,
+        1526
+      ]
+    },
+    {
+      "text": "976",
+      "description": "",
+      "bounds": [
+        943,
+        1678,
+        1069,
+        1722
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1875,
+        1069,
+        1924
+      ]
+    },
+    {
+      "text": "漫剧 月照澜川 全121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        525,
+        2089
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ]
+    },
+    {
+      "text": "穿在冷宫当咸鱼",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        3782,
+        352,
+        2121
+      ]
+    },
+    {
+      "text": "宫廷",
+      "description": "",
+      "bounds": [
+        44,
+        3869,
+        142,
+        2121
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        158,
+        3869,
+        231,
+        2121
+      ]
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        247,
+        3869,
+        345,
+        2121
+      ]
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        361,
+        3869,
+        459,
+        2121
+      ]
+    },
+    {
+      "text": "第2集 | 现代社畜林小满加班猝死，…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        3954,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        3954,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        4028,
+        449,
+        2121
+      ]
+    },
+    {
+      "text": "14.8万",
+      "description": "",
+      "bounds": [
+        956,
+        3414,
+        1056,
+        2121
+      ]
+    },
+    {
+      "text": "347",
+      "description": "",
+      "bounds": [
+        943,
+        3609,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "3.3万",
+      "description": "",
+      "bounds": [
+        943,
+        3798,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3998,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "观看完整漫剧 全79集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        493,
+        2121
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ]
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        288,
+        80,
+        386,
+        151
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        441,
+        80,
+        539,
+        151
+      ]
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        594,
+        80,
+        692,
+        151
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        80,
+        2172,
+        172,
+        2240
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ]
+    }
+  ]
+}

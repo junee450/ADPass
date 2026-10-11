@@ -1,0 +1,27 @@
+APK 7.3.9.32 resource inspection; static evidence, not a runtime live-card observation.
+      spec resource 0x7f060b4a com.phoenix.read:string/bbm: flags=0x00000000
+      spec resource 0x7f060b4b com.phoenix.read:string/bbn: flags=0x00000000
+      spec resource 0x7f060f5f com.phoenix.read:string/c3v: flags=0x00000000
+      spec resource 0x7f060f60 com.phoenix.read:string/c3w: flags=0x00000000
+      spec resource 0x7f062061 com.phoenix.read:string/f_h: flags=0x00000000
+      spec resource 0x7f062062 com.phoenix.read:string/f_i: flags=0x00000000
+      spec resource 0x7f062062 com.phoenix.read:string/f_i: flags=0x00000000
+      spec resource 0x7f062063 com.phoenix.read:string/f_j: flags=0x00000000
+        resource 0x7f060b4a com.phoenix.read:string/bbm: t=0x03 d=0x00006d42 (s=0x0008 r=0x00)
+          (string8) "点击进入直播间"
+        resource 0x7f060f5f com.phoenix.read:string/c3v: t=0x03 d=0x00006e6a (s=0x0008 r=0x00)
+          (string8) "直播中"
+        resource 0x7f062061 com.phoenix.read:string/f_h: t=0x03 d=0x000058b0 (s=0x0008 r=0x00)
+          (string8) "%1$ds后可继续上滑观看短剧"
+        resource 0x7f062062 com.phoenix.read:string/f_i: t=0x03 d=0x000058bf (s=0x0008 r=0x00)
+          (string8) "%1$d秒后可继续上滑观看短剧"
+      spec resource 0x7f1137b5 com.phoenix.read:id/jjy: flags=0x00000000
+      spec resource 0x7f1137b6 com.phoenix.read:id/jjz: flags=0x00000000
+          A: android:textColor(0x01010098)=@0x7f0d00ba
+          A: android:ellipsize(0x010100ab)=(type 0x10)0x3
+          A: android:id(0x010100d0)=@0x7f1137b5
+          A: android:layout_width(0x010100f4)=(type 0x10)0xfffffffe
+          A: android:layout_height(0x010100f5)=(type 0x10)0xfffffffe
+          A: android:text(0x0101014f)=@0x7f060b4a
+          A: android:maxLines(0x01010153)=(type 0x10)0x1
+          A: android:layout_marginStart(0x010103b5)=(type 0x5)0x401

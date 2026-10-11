@@ -1,0 +1,19 @@
+ADSkip 0.2.2 — third-party notices
+
+Offline OCR uses the unmodified Tesseract4Android 4.9.0 standard AAR,
+including Tesseract, Leptonica, libpng and the Independent JPEG Group code.
+This software is based in part on the work of the Independent JPEG Group.
+Full license and copyright notices accompany this file in this directory.
+
+Tesseract4Android: https://github.com/adaptech-cz/Tesseract4Android
+Source tag 4.9.0, commit 15c534717b1cb58261b58d4e4c1200c7f81f668c
+AAR SHA-256: bce5d6413a1a5ae3d7240033fbbc851ba3217d0a08d9769400e17a077f42cb2a
+
+Chinese model: https://github.com/tesseract-ocr/tessdata_best
+chi_sim.traineddata downloaded from main on 2026-10-11
+Model SHA-256: 4fef2d1306c8e87616d4d3e4c6c67faf5d44be3342290cf8f2f0f6e3aa7e735b
+Unmodified model, Apache License 2.0; see tessdata-best.txt.
+
+ADSkip's header preprocessing and strict prompt checks are separate
+application code. Neither upstream recognition results nor any model imply
+that an advertisement can be skipped without the application's checks.

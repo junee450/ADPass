@@ -1,0 +1,42 @@
+[
+  {
+    "time": 1791559508541,
+    "reason": "ad-ready-two-hits",
+    "episodeAfter": [
+      "第14集"
+    ],
+    "screenshot": "automatic-result-01.png"
+  },
+  {
+    "time": 1791559706211,
+    "reason": "ad-ready-two-hits",
+    "episodeAfter": [
+      "第16集"
+    ],
+    "screenshot": "automatic-result-02.png"
+  },
+  {
+    "time": 1791559777450,
+    "reason": "ad-ready-two-hits",
+    "episodeAfter": [
+      "第18集"
+    ],
+    "screenshot": "automatic-result-03.png"
+  },
+  {
+    "time": 1791559950199,
+    "reason": "ad-ready-two-hits",
+    "episodeAfter": [
+      "第20集"
+    ],
+    "screenshot": "automatic-result-04.png"
+  },
+  {
+    "time": 1791560150081,
+    "reason": "ad-ready-two-hits",
+    "episodeAfter": [
+      "第22集"
+    ],
+    "screenshot": "automatic-result-05.png"
+  }
+]

@@ -1,0 +1,56 @@
+legacy-fixed second=18 kind=content confidence=83
+legacy-fixed second=19 kind=content confidence=83
+legacy-fixed second=20 kind=content confidence=84
+legacy-fixed second=21 kind=content confidence=82
+legacy-fixed second=22 kind=content confidence=82
+legacy-fixed second=23 kind=content confidence=84
+legacy-fixed second=24 kind=content confidence=82
+legacy-fixed second=25 kind=content confidence=83
+legacy-fixed second=26 kind=content confidence=84
+legacy-fixed second=27 kind=content confidence=85
+legacy-fixed second=28 kind=content confidence=88
+legacy-fixed second=29 kind=content confidence=87
+legacy-fixed second=30 kind=content confidence=75
+legacy-fixed second=31 kind=content confidence=77
+legacy-fixed second=32 kind=content confidence=73
+legacy-fixed ready_frames=0 simulated_retry_second=-1
+legacy-fixed normal=12 kind=ad-waiting
+legacy-fixed normal=17 kind=content
+badge-relative second=18 kind=ad-waiting confidence=72
+badge-relative second=19 kind=ad-waiting confidence=71
+badge-relative second=20 kind=content confidence=32
+badge-relative second=21 kind=ad-waiting confidence=25
+badge-relative second=22 kind=ad-waiting confidence=70
+badge-relative second=23 kind=ad-waiting confidence=79
+badge-relative second=24 kind=ad-waiting confidence=83
+badge-relative second=25 kind=content confidence=69
+badge-relative second=26 kind=content confidence=75
+badge-relative second=27 kind=content confidence=81
+badge-relative second=28 kind=content confidence=82
+badge-relative second=29 kind=ad-waiting confidence=72
+badge-relative second=30 kind=ad-ready confidence=86
+badge-relative second=31 kind=ad-ready confidence=82
+badge-relative second=32 kind=content confidence=81
+badge-relative ready_frames=2 simulated_retry_second=31
+badge-relative normal=12 kind=ad-waiting
+badge-relative normal=17 kind=ad-waiting
+native-container second=18 kind=ad-waiting confidence=80
+native-container second=19 kind=ad-waiting confidence=92
+native-container second=20 kind=ad-waiting confidence=93
+native-container second=21 kind=ad-waiting confidence=88
+native-container second=22 kind=ad-waiting confidence=88
+native-container second=23 kind=ad-waiting confidence=83
+native-container second=24 kind=ad-waiting confidence=93
+native-container second=25 kind=content confidence=75
+native-container second=26 kind=content confidence=83
+native-container second=27 kind=content confidence=88
+native-container second=28 kind=ad-ready confidence=85
+native-container second=29 kind=content confidence=76
+native-container second=30 kind=ad-ready confidence=86
+native-container second=31 kind=ad-ready confidence=82
+native-container second=32 kind=content confidence=81
+native-container ready_frames=3 simulated_retry_second=31
+native-container normal=12 kind=content
+native-container normal=17 kind=ad-waiting
+RESULT: PASS failures=0
+

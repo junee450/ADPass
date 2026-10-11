@@ -1,0 +1,2899 @@
+{
+  "time": 1791703597544,
+  "sample": 334,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 247.349042,
+  "nodes": [
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.LinearLayout",
+      "clickable": false,
+      "path": "root/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/action_bar_root",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.LinearLayout",
+      "clickable": false,
+      "path": "root/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "android:id/content",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/fragment_container",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/mq",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/h8p",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/f8h",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "androidx.viewpager.widget.ViewPager",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 12364,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "androidx.recyclerview.widget.RecyclerView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0",
+      "children": 3,
+      "enabled": true,
+      "selected": false,
+      "actions": 12365,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/e68",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0",
+      "children": 3,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hz9",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0",
+      "children": 6,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv6",
+      "bounds": [
+        0,
+        0,
+        0,
+        -1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ct2",
+      "bounds": [
+        0,
+        0,
+        0,
+        -1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hw2",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.RelativeLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/4",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/4/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        -66
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/4/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hc7",
+      "bounds": [
+        257,
+        0,
+        2083,
+        -66
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/4/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        -1058
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/5",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ct3",
+      "bounds": [
+        0,
+        0,
+        2340,
+        -1058
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/0/5/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/der",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1",
+      "children": 8,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv_",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ke",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv6",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv7",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0",
+      "children": 5,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        0,
+        1303,
+        -333
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        0,
+        1303,
+        -333
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        0,
+        1303,
+        -333
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        0,
+        1303,
+        -333
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        0,
+        1303,
+        -333
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/3/0/4",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ig1",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/4",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/4/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/d4j",
+      "bounds": [
+        257,
+        0,
+        2083,
+        -198
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/4/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hze",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.RelativeLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/5",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/i62",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/6",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        204,
+        0,
+        2136,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/6/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/i0a",
+      "bounds": [
+        0,
+        0,
+        2070,
+        -975
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/1/7",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dvg",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        0
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/0/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/container",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dmp",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 77,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0",
+      "children": 6,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0",
+      "children": 3,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0",
+      "children": 3,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        2340,
+        199
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        881,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        867,
+        1,
+        1473,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        867,
+        1,
+        1473,
+        1079
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0/2/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ttlive_player_render_view",
+      "bounds": [
+        867,
+        1,
+        1473,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/0/2/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1,
+        28,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2313,
+        1,
+        2340,
+        1079
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        143,
+        78,
+        231,
+        166
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        171,
+        89,
+        204,
+        155
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1534,
+        67,
+        2197,
+        155
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/2",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1534,
+        67,
+        1969,
+        155
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2002,
+        69,
+        2197,
+        154
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/2/1",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "广告",
+      "bounds": [
+        2036,
+        92,
+        2114,
+        131
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/2/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2125,
+        92,
+        2163,
+        130
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/2/1/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2307,
+        540,
+        2307,
+        540
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        182,
+        793,
+        2159,
+        1057
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/4",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        956,
+        862,
+        1385,
+        988
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/4/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        986,
+        880,
+        1355,
+        971
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/4/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1524,
+        650,
+        2247,
+        1046
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1524,
+        650,
+        2247,
+        1046
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1524,
+        650,
+        2247,
+        1046
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1524,
+        650,
+        2247,
+        1046
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1524,
+        650,
+        2247,
+        1046
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1557,
+        683,
+        2214,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1557,
+        683,
+        1667,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1557,
+        683,
+        1667,
+        793
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        683,
+        2214,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        683,
+        2214,
+        733
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        686,
+        1810,
+        730
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        686,
+        1810,
+        730
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        686,
+        1799,
+        730
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0/0/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        686,
+        1799,
+        730
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0/0/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "Swisse斯维诗熟氨糖海外直播间",
+      "bounds": [
+        1810,
+        683,
+        2214,
+        733
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        738,
+        2214,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        738,
+        2005,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1689,
+        738,
+        1829,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1/0/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "好评1万",
+      "bounds": [
+        1700,
+        742,
+        1818,
+        789
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1840,
+        738,
+        1994,
+        793
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1/0/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "品牌低价",
+      "bounds": [
+        1851,
+        742,
+        1983,
+        789
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/0/1/1/0/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1557,
+        815,
+        2214,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1",
+      "children": 5,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1557,
+        815,
+        1579,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1579,
+        815,
+        1755,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1579,
+        854,
+        1755,
+        969
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1628,
+        854,
+        1705,
+        925
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1/0/0",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "6",
+      "bounds": [
+        1628,
+        854,
+        1669,
+        925
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1/0/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "折",
+      "bounds": [
+        1675,
+        878,
+        1705,
+        925
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "折扣券",
+      "bounds": [
+        1579,
+        931,
+        1755,
+        969
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/1/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1755,
+        815,
+        1799,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1799,
+        815,
+        2192,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3",
+      "children": 4,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1799,
+        914,
+        1818,
+        914
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1818,
+        865,
+        2008,
+        964
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/1",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "红果短剧…﻿﻿",
+      "bounds": [
+        1818,
+        865,
+        1983,
+        920
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "本商品可用",
+      "bounds": [
+        1818,
+        925,
+        1968,
+        964
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/1/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2030,
+        880,
+        2173,
+        948
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "去领取",
+      "bounds": [
+        2052,
+        891,
+        2151,
+        937
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 131917,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2173,
+        914,
+        2192,
+        914
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/3/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        2192,
+        815,
+        2214,
+        1013
+      ],
+      "visible": true,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/5/0/0/0/0/1/4",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/e68",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2",
+      "children": 3,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hz9",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0",
+      "children": 6,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv6",
+      "bounds": [
+        0,
+        1080,
+        0,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ct2",
+      "bounds": [
+        0,
+        1080,
+        0,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hw2",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.RelativeLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/4",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/4/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/4/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hc7",
+      "bounds": [
+        257,
+        2041,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/4/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/5",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ct3",
+      "bounds": [
+        0,
+        1102,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/0/5/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/der",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1",
+      "children": 8,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv_",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ke",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv6",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dv7",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0",
+      "children": 5,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        1412,
+        1303,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        1412,
+        1303,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        1412,
+        1303,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0/2",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        1412,
+        1303,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0/3",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        1037,
+        1412,
+        1303,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/3/0/4",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/ig1",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/4",
+      "children": 2,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": true,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/4/0",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 93,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/cp7",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/4/0/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/4/1",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/d4j",
+      "bounds": [
+        257,
+        1962,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/4/1/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/hze",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.RelativeLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/5",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/i62",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/6",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        208,
+        1080,
+        2131,
+        1080
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/6/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/i0a",
+      "bounds": [
+        0,
+        1146,
+        2274,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/1/7",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": true
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/dvg",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/2",
+      "children": 1,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "bounds": [
+        0,
+        1080,
+        2340,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/0/0/0/0/0/2/2/0",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/mq",
+      "bounds": [
+        0,
+        0,
+        2340,
+        1080
+      ],
+      "visible": true,
+      "class": "android.widget.FrameLayout",
+      "clickable": false,
+      "path": "root/0/0/0/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    },
+    {
+      "text": "",
+      "description": "",
+      "id": "com.phoenix.read:id/fj",
+      "bounds": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "visible": true,
+      "class": "android.view.View",
+      "clickable": false,
+      "path": "root/0/0/0/0/1",
+      "children": 0,
+      "enabled": true,
+      "selected": false,
+      "actions": 76,
+      "important": false
+    }
+  ],
+  "queries": [],
+  "windowId": 115,
+  "cacheEnabled": false
+}

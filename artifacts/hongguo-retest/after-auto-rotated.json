@@ -1,0 +1,642 @@
+{
+  "time": 1791559707304,
+  "sample": 632,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "kind": "content",
+  "window": [
+    858,
+    0,
+    1619,
+    1080
+  ],
+  "readMs": 379.381959,
+  "nodes": [
+    {
+      "text": "",
+      "description": "广告",
+      "bounds": [
+        1693,
+        0,
+        1619,
+        -769
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "产自鄂尔多斯市羊毛衫女",
+      "bounds": [
+        1073,
+        742,
+        1458,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "查看详情",
+      "bounds": [
+        1504,
+        749,
+        1619,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "HASSYZZYS服饰",
+      "bounds": [
+        902,
+        855,
+        1240,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "【可机洗】不起球，不褪色，不变形，女士羊毛衫马甲背心！",
+      "bounds": [
+        902,
+        938,
+        1619,
+        0
+      ],
+      "visible": false,
+      "class": "android.view.ViewGroup",
+      "clickable": false
+    },
+    {
+      "text": "上滑继续观看短剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/aq8",
+      "bounds": [
+        1055,
+        0,
+        1367,
+        -48
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        902,
+        650,
+        1103,
+        715
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第16集 | “你如今要怀…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        902,
+        748,
+        1406,
+        800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        1328,
+        748,
+        1406,
+        800
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "20.1万",
+      "description": "",
+      "bounds": [
+        1495,
+        166,
+        1595,
+        215
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "189",
+      "description": "",
+      "bounds": [
+        1482,
+        362,
+        1608,
+        401
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "6078",
+      "description": "",
+      "bounds": [
+        1482,
+        552,
+        1608,
+        596
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        1482,
+        748,
+        1608,
+        797
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        946,
+        908,
+        1024,
+        966
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        1024,
+        908,
+        1322,
+        966
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第764262号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        858,
+        312,
+        1575,
+        360
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        902,
+        1658,
+        1103,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        952,
+        1756,
+        1069,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "男主：好的，我不动手动脚的，我动嘴[偷笑]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        1069,
+        1756,
+        1317,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        1239,
+        1756,
+        1317,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "20.1万",
+      "description": "",
+      "bounds": [
+        1495,
+        1180,
+        1595,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "409",
+      "description": "",
+      "bounds": [
+        1482,
+        1376,
+        1608,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "5991",
+      "description": "",
+      "bounds": [
+        1482,
+        1566,
+        1608,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        1482,
+        1762,
+        1608,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        946,
+        1922,
+        1024,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全71集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        1024,
+        1922,
+        1322,
+        1014
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "第16集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        979,
+        66,
+        1259,
+        187
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        1380,
+        100,
+        1454,
+        152
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "bounds": [
+        1966,
+        306,
+        2217,
+        386
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全71集",
+      "description": "",
+      "bounds": [
+        1966,
+        408,
+        2084,
+        463
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "古装",
+      "description": "",
+      "bounds": [
+        1988,
+        507,
+        2054,
+        555
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧情简介",
+      "description": "",
+      "bounds": [
+        1663,
+        745,
+        1839,
+        809
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "“你如今要怀着我的孩子嫁人了”陆昭宁扑朔迷离不为人知的身世，顾珩… ",
+      "description": "",
+      "bounds": [
+        1663,
+        849,
+        2336,
+        971
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        1663,
+        1003,
+        1817,
+        1014
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        1894,
+        1003,
+        2048,
+        1014
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        2125,
+        1003,
+        2279,
+        1014
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        2356,
+        1003,
+        2380,
+        1014
+      ],
+      "visible": false,
+      "class": "android.view.View",
+      "clickable": false
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "bounds": [
+        1810,
+        910,
+        1886,
+        965
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "写剧评",
+      "description": "",
+      "bounds": [
+        2149,
+        910,
+        2263,
+        965
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "返回",
+      "bounds": [
+        1663,
+        164,
+        1729,
+        230
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": true
+    },
+    {
+      "text": "换巢鸾凤5",
+      "description": "",
+      "bounds": [
+        1729,
+        161,
+        2094,
+        232
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "",
+      "description": "分享",
+      "bounds": [
+        2149,
+        164,
+        2215,
+        230
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": true
+    },
+    {
+      "text": "",
+      "description": "更多",
+      "bounds": [
+        2270,
+        164,
+        2336,
+        230
+      ],
+      "visible": false,
+      "class": "android.widget.ImageView",
+      "clickable": true
+    },
+    {
+      "text": "本剧已看20%",
+      "description": "",
+      "bounds": [
+        1152,
+        228,
+        1374,
+        283
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "看完领3万金币",
+      "description": "",
+      "bounds": [
+        1152,
+        283,
+        1401,
+        338
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1588,
+        297,
+        1610,
+        329
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        1456,
+        324,
+        1564,
+        363
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

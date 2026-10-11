@@ -1,0 +1,829 @@
+{
+  "time": 1791558695870,
+  "sample": 2,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    1080,
+    2340
+  ],
+  "readMs": 193.696875,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -636
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "朝朝暮暮祈重逢",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        352,
+        -395
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "萌宝",
+      "description": "",
+      "bounds": [
+        44,
+        0,
+        142,
+        -315
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        158,
+        0,
+        231,
+        -324
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        247,
+        0,
+        345,
+        -315
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        361,
+        0,
+        459,
+        -315
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第5集 | 宫女闻暮为保全皇子萧景渊…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -236
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -236
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        0,
+        449,
+        -165
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "6.1万",
+      "description": "",
+      "bounds": [
+        965,
+        0,
+        1046,
+        -778
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "142",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -592
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "7456",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -397
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -196
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "观看完整漫剧 全118集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        515,
+        -32
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -32
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第884603号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1047,
+        -1283
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1436,
+        633,
+        1485
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "@用户23292041",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1732,
+        371,
+        1797
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第1季",
+      "description": "",
+      "bounds": [
+        44,
+        1819,
+        161,
+        1877
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        177,
+        1819,
+        250,
+        1868
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        266,
+        1819,
+        364,
+        1877
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "家族",
+      "description": "",
+      "bounds": [
+        380,
+        1819,
+        478,
+        1877
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        494,
+        1819,
+        592,
+        1877
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "世子醒来会怎样？《月照澜川》",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1904,
+        778,
+        1956
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        995,
+        1062,
+        1108
+      ],
+      "visible": true,
+      "class": "android.widget.ImageView",
+      "clickable": false
+    },
+    {
+      "text": "1117",
+      "description": "",
+      "bounds": [
+        968,
+        1295,
+        1044,
+        1339
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "14",
+      "description": "",
+      "bounds": [
+        943,
+        1487,
+        1069,
+        1526
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "976",
+      "description": "",
+      "bounds": [
+        943,
+        1678,
+        1069,
+        1722
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1875,
+        1069,
+        1924
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "漫剧 月照澜川 全121集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        525,
+        2089
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "3s 后播放全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_e",
+      "bounds": [
+        734,
+        2031,
+        981,
+        2089
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿在冷宫当咸鱼",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        3782,
+        352,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "宫廷",
+      "description": "",
+      "bounds": [
+        44,
+        3869,
+        142,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        158,
+        3869,
+        231,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "古代",
+      "description": "",
+      "bounds": [
+        247,
+        3869,
+        345,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "穿越",
+      "description": "",
+      "bounds": [
+        361,
+        3869,
+        459,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "第2集 | 现代社畜林小满加班猝死，…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        3954,
+        778,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        3954,
+        778,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        4028,
+        449,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "14.8万",
+      "description": "",
+      "bounds": [
+        956,
+        3414,
+        1056,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "347",
+      "description": "",
+      "bounds": [
+        943,
+        3609,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "3.3万",
+      "description": "",
+      "bounds": [
+        943,
+        3798,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3998,
+        1069,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "观看完整漫剧 全79集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        493,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        288,
+        80,
+        386,
+        151
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        441,
+        80,
+        539,
+        151
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        594,
+        80,
+        692,
+        151
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        80,
+        2172,
+        172,
+        2240
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

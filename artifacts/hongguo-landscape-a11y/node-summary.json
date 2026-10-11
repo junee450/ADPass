@@ -1,0 +1,52 @@
+[
+  {
+    "folder": "ad01",
+    "all_samples": 152,
+    "visible_ad_samples": 152,
+    "skip_labels": [],
+    "query_skip_labels": [],
+    "kinds": {
+      "content": 152
+    }
+  },
+  {
+    "folder": "ad02-fresh",
+    "all_samples": 96,
+    "visible_ad_samples": 96,
+    "skip_labels": [],
+    "query_skip_labels": [],
+    "kinds": {
+      "content": 96
+    }
+  },
+  {
+    "folder": "ad03",
+    "all_samples": 70,
+    "visible_ad_samples": 70,
+    "skip_labels": [],
+    "query_skip_labels": [],
+    "kinds": {
+      "content": 70
+    }
+  },
+  {
+    "folder": "ad05-entry",
+    "all_samples": 103,
+    "visible_ad_samples": 103,
+    "skip_labels": [],
+    "query_skip_labels": [],
+    "kinds": {
+      "content": 103
+    }
+  },
+  {
+    "folder": "ad06-fresh",
+    "all_samples": 110,
+    "visible_ad_samples": 97,
+    "skip_labels": [],
+    "query_skip_labels": [],
+    "kinds": {
+      "content": 97
+    }
+  }
+]

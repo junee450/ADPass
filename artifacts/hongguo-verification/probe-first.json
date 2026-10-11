@@ -1,0 +1,831 @@
+{
+  "time": 1791556611822,
+  "sample": 8,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 223.375833,
+  "nodes": [
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        572,
+        -305
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        0,
+        211,
+        -214
+      ]
+    },
+    {
+      "text": "不用猜，总裁就是初夏孩子的爸，总裁当年也是被害的",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        0,
+        666,
+        -214
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        0,
+        778,
+        -214
+      ]
+    },
+    {
+      "text": "153.7万",
+      "description": "",
+      "bounds": [
+        946,
+        0,
+        1065,
+        -801
+      ]
+    },
+    {
+      "text": "3823",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -616
+      ]
+    },
+    {
+      "text": "6万",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -417
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -217
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        0,
+        166,
+        -48
+      ]
+    },
+    {
+      "text": " · 已完结 · 全70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        0,
+        469,
+        -48
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第200474号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1036,
+        -1914
+      ]
+    },
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1904,
+        572,
+        1969
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        2002,
+        211,
+        2060
+      ]
+    },
+    {
+      "text": "女主沉着冷静，不动声色，忽悠渣男卖掉婚房，维护了自己的利益，干得漂亮！[爽][爽]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        2002,
+        666,
+        2060
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        2002,
+        778,
+        2060
+      ]
+    },
+    {
+      "text": "153.7万",
+      "description": "",
+      "bounds": [
+        946,
+        1424,
+        1065,
+        1473
+      ]
+    },
+    {
+      "text": "1752",
+      "description": "",
+      "bounds": [
+        943,
+        1619,
+        1069,
+        1658
+      ]
+    },
+    {
+      "text": "4.5万",
+      "description": "",
+      "bounds": [
+        943,
+        1808,
+        1069,
+        1857
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        2008,
+        1069,
+        2057
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        2168,
+        166,
+        2226
+      ]
+    },
+    {
+      "text": " · 已完结 · 全70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        2168,
+        469,
+        2226
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第200474号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        312,
+        1036,
+        360
+      ]
+    },
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        4178,
+        572,
+        2274
+      ]
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        4276,
+        211,
+        2274
+      ]
+    },
+    {
+      "text": "女主情绪很稳定，步步为营，利益没切割，玩绝不撕破脸，虚以为蛇",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        4276,
+        666,
+        2274
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        4276,
+        778,
+        2274
+      ]
+    },
+    {
+      "text": "第7集 | 领证当天，林初夏没等到男…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        4276,
+        778,
+        2274
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        4276,
+        778,
+        2274
+      ]
+    },
+    {
+      "text": "153.7万",
+      "description": "",
+      "bounds": [
+        946,
+        3698,
+        1065,
+        2274
+      ]
+    },
+    {
+      "text": "1213",
+      "description": "",
+      "bounds": [
+        943,
+        3893,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "bounds": [
+        943,
+        4082,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        4282,
+        1069,
+        2274
+      ]
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        4442,
+        166,
+        2274
+      ]
+    },
+    {
+      "text": " · 已完结 · 全70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        4442,
+        469,
+        2274
+      ]
+    },
+    {
+      "text": "第6集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        121,
+        136,
+        720,
+        257
+      ]
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        841,
+        170,
+        915,
+        222
+      ]
+    },
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "id": "com.phoenix.read:id\/i42",
+      "bounds": [
+        1399,
+        301,
+        1080,
+        381
+      ]
+    },
+    {
+      "text": "全70集",
+      "description": "",
+      "bounds": [
+        1399,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "红果热度值3626万",
+      "description": "",
+      "bounds": [
+        1533,
+        409,
+        1080,
+        465
+      ]
+    },
+    {
+      "text": "于雨桐",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1454,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "宋晨",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1688,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "明煜",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1884,
+        498,
+        1080,
+        554
+      ]
+    },
+    {
+      "text": "简介",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3e",
+      "bounds": [
+        1124,
+        692,
+        1080,
+        757
+      ]
+    },
+    {
+      "text": "情感觉醒",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "现代",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "总裁",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "女强",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "真相大白",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ]
+    },
+    {
+      "text": "爱情",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "都市爱情",
+      "description": "",
+      "bounds": [
+        1377,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "女性成长",
+      "description": "",
+      "bounds": [
+        1575,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "先婚后爱",
+      "description": "",
+      "bounds": [
+        1773,
+        685,
+        1080,
+        765
+      ]
+    },
+    {
+      "text": "领证当天，林初夏没等到男友，却等来了小三嚣张发来照片挑衅。林初夏立马放弃渣男，在民政局随手抓了个着急结婚的普通人。领证、给女儿上户口、赶走渣男，…",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3d",
+      "bounds": [
+        1124,
+        785,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/i4t",
+      "bounds": [
+        2038,
+        923,
+        1080,
+        981
+      ]
+    },
+    {
+      "text": "剧集",
+      "description": "",
+      "id": "com.phoenix.read:id\/title",
+      "bounds": [
+        1124,
+        1072,
+        1080,
+        1137
+      ]
+    },
+    {
+      "text": "已完结 共70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hz2",
+      "bounds": [
+        1880,
+        1080,
+        1080,
+        1129
+      ]
+    },
+    {
+      "text": "1-30",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1080,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "31-60",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1271,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "61-70",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1480,
+        1148,
+        1080,
+        1275
+      ]
+    },
+    {
+      "text": "3",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1081,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "4",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1250,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "5",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1419,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "6",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1588,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "7",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1757,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "8",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1926,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "9",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        2095,
+        1332,
+        1080,
+        1385
+      ]
+    },
+    {
+      "text": "剧评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jx0",
+      "bounds": [
+        1124,
+        1554,
+        1080,
+        1619
+      ]
+    },
+    {
+      "text": "未开分",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_n",
+      "bounds": [
+        1168,
+        1724,
+        1080,
+        1772
+      ]
+    },
+    {
+      "text": "红果分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k2z",
+      "bounds": [
+        1365,
+        1696,
+        1080,
+        1744
+      ]
+    },
+    {
+      "text": "点击或滑动评分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7z",
+      "bounds": [
+        1747,
+        1685,
+        1080,
+        1734
+      ]
+    },
+    {
+      "text": "被甩当天，我带崽闪婚豪门",
+      "description": "",
+      "id": "com.phoenix.read:id\/k9t",
+      "bounds": [
+        1080,
+        136,
+        1080,
+        257
+      ]
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "id": "com.phoenix.read:id\/c88",
+      "bounds": [
+        1349,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/gq3",
+      "bounds": [
+        1819,
+        2163,
+        1080,
+        2221
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        1034,
+        1048,
+        1087
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        990,
+        998,
+        1012,
+        1031
+      ]
+    },
+    {
+      "text": "看剧生财",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        931,
+        1026,
+        987
+      ]
+    },
+    {
+      "text": "5分钟得1.5元",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        987,
+        1026,
+        1043
+      ]
+    }
+  ]
+}

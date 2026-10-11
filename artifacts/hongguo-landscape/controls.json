@@ -1,0 +1,157 @@
+{
+  "time": 1791699589059,
+  "sample": 92,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 14.29475,
+  "nodes": [
+    {
+      "text": "14:19",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        27,
+        1212,
+        71
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        27,
+        2012,
+        71
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿成穷秀才，我靠医术养全家 第1集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        98,
+        1850,
+        171
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:01:38",
+      "description": "",
+      "id": "com.phoenix.read:id\/dvf",
+      "bounds": [
+        301,
+        836,
+        433,
+        880
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:02:37",
+      "description": "",
+      "id": "com.phoenix.read:id\/dv8",
+      "bounds": [
+        1918,
+        836,
+        2050,
+        880
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "6486",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        968,
+        376,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "221",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        968,
+        534,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        644,
+        964,
+        711,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1829,
+        942,
+        1904,
+        995
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1992,
+        942,
+        2083,
+        995
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    }
+  ]
+}

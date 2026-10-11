@@ -1,0 +1,46 @@
+ad-original-paused.png #0 ad-ready confidence=86 ms=231.07 cold-init
+ad-original-paused.png #1 ad-ready confidence=86 ms=94.98 warm
+ad-original-paused.png #2 ad-ready confidence=86 ms=95.46 warm
+ad01-ad-00s.png #0 ad-ready confidence=84 ms=138.48 warm
+ad01-ad-00s.png #1 ad-ready confidence=84 ms=138.09 warm
+ad01-ad-00s.png #2 ad-ready confidence=84 ms=135.37 warm
+ad01-ad-27s.png #0 ad-ready confidence=84 ms=123.17 warm
+ad01-ad-27s.png #1 ad-ready confidence=84 ms=123.75 warm
+ad01-ad-27s.png #2 ad-ready confidence=84 ms=122.13 warm
+ad01-paused.png #0 ad-ready confidence=84 ms=160.51 warm
+ad01-paused.png #1 ad-ready confidence=84 ms=158.10 warm
+ad01-paused.png #2 ad-ready confidence=84 ms=159.66 warm
+ad02-fresh-ad-00s.png #0 content confidence=69 ms=81.64 warm
+ad02-fresh-ad-00s.png #1 content confidence=69 ms=85.00 warm
+ad02-fresh-ad-00s.png #2 content confidence=69 ms=81.47 warm
+ad02-fresh-ad-27s.png #0 ad-waiting confidence=69 ms=97.27 warm
+ad02-fresh-ad-27s.png #1 ad-waiting confidence=69 ms=93.96 warm
+ad02-fresh-ad-27s.png #2 ad-waiting confidence=69 ms=102.18 warm
+ad03-ad-00s.png #0 ad-ready confidence=86 ms=90.08 warm
+ad03-ad-00s.png #1 ad-ready confidence=86 ms=90.65 warm
+ad03-ad-00s.png #2 ad-ready confidence=86 ms=92.02 warm
+ad03-ad-27s.png #0 ad-ready confidence=86 ms=92.42 warm
+ad03-ad-27s.png #1 ad-ready confidence=86 ms=92.50 warm
+ad03-ad-27s.png #2 ad-ready confidence=86 ms=91.00 warm
+ad05-entry-ad-00s.png #0 content confidence=68 ms=76.39 warm
+ad05-entry-ad-00s.png #1 content confidence=68 ms=76.47 warm
+ad05-entry-ad-00s.png #2 content confidence=68 ms=78.63 warm
+ad05-entry-ad-27s.png #0 content confidence=80 ms=98.96 warm
+ad05-entry-ad-27s.png #1 content confidence=80 ms=98.38 warm
+ad05-entry-ad-27s.png #2 content confidence=80 ms=97.95 warm
+ad06-fresh-ad-00s.png #0 ad-ready confidence=85 ms=73.18 warm
+ad06-fresh-ad-00s.png #1 ad-ready confidence=85 ms=84.11 warm
+ad06-fresh-ad-00s.png #2 ad-ready confidence=85 ms=75.85 warm
+ad06-fresh-ad-27s.png #0 ad-ready confidence=85 ms=73.97 warm
+ad06-fresh-ad-27s.png #1 ad-ready confidence=85 ms=72.44 warm
+ad06-fresh-ad-27s.png #2 ad-ready confidence=85 ms=74.24 warm
+normal-controls.png #0 ad-waiting confidence=22 ms=72.70 warm
+normal-controls.png #1 ad-waiting confidence=22 ms=73.01 warm
+normal-controls.png #2 ad-waiting confidence=22 ms=71.84 warm
+normal-fullscreen.png #0 content confidence=0 ms=40.10 warm
+normal-fullscreen.png #1 content confidence=0 ms=39.16 warm
+normal-fullscreen.png #2 content confidence=0 ms=38.64 warm
+warm_count=41 median_ms=90.998166 p95_ms=158.1
+process_pss_baseline_kb=5587 process_pss_after_kb=64524
+RESULT: FAIL failures=12
+

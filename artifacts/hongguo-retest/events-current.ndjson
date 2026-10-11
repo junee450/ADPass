@@ -1,0 +1,12 @@
+{"type":"connected","auto":false}
+{"time":1791556616400,"type":"screenshot","detail":"manual-1791556615930.png"}
+{"time":1791556679492,"type":"gesture-dispatched","detail":"manual-playback-test:accepted=true"}
+{"time":1791556679846,"type":"gesture-completed","detail":"manual-playback-test"}
+{"time":1791556682077,"type":"screenshot","detail":"after-gesture-1791556681291.png"}
+{"type":"connected","auto":false}
+{"time":1791556777783,"type":"auto","detail":"on"}
+{"time":1791557195118,"type":"auto","detail":"off"}
+{"type":"connected","auto":false}
+{"type":"connected","auto":false}
+{"type":"connected","auto":false}
+{"time":1791558956459,"type":"auto","detail":"on"}

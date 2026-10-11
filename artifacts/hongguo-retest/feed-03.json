@@ -1,0 +1,706 @@
+{
+  "time": 1791558612339,
+  "sample": 410,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 1102.839459,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -636
+      ]
+    },
+    {
+      "text": "爆剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0l",
+      "bounds": [
+        55,
+        0,
+        121,
+        -403
+      ]
+    },
+    {
+      "text": "金铺风云",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        154,
+        0,
+        330,
+        -395
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        44,
+        0,
+        142,
+        -315
+      ]
+    },
+    {
+      "text": "剧情",
+      "description": "",
+      "bounds": [
+        158,
+        0,
+        256,
+        -315
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        272,
+        0,
+        345,
+        -324
+      ]
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        361,
+        0,
+        459,
+        -315
+      ]
+    },
+    {
+      "text": "第1集 | 沈知夏在瑞祥金铺做了多年…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        0,
+        778,
+        -236
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        0,
+        449,
+        -165
+      ]
+    },
+    {
+      "text": "48.3万",
+      "description": "",
+      "bounds": [
+        956,
+        0,
+        1056,
+        -779
+      ]
+    },
+    {
+      "text": "2935",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -594
+      ]
+    },
+    {
+      "text": "12.9万",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -395
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -195
+      ]
+    },
+    {
+      "text": "观看完整短剧 全53集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        493,
+        -32
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -32
+      ]
+    },
+    {
+      "text": "（番茄）网微剧备字（2026）第954701号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        1047,
+        -1283
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1436,
+        633,
+        1485
+      ]
+    },
+    {
+      "text": "系列剧·蚀骨罪",
+      "description": "",
+      "id": "com.phoenix.read:id\/k01",
+      "bounds": [
+        105,
+        1569,
+        312,
+        1617
+      ]
+    },
+    {
+      "text": "共261万人在追",
+      "description": "",
+      "id": "com.phoenix.read:id\/k00",
+      "bounds": [
+        337,
+        1569,
+        559,
+        1617
+      ]
+    },
+    {
+      "text": "预约上新",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0l",
+      "bounds": [
+        55,
+        1669,
+        187,
+        1718
+      ]
+    },
+    {
+      "text": "蚀骨罪第五季",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        220,
+        1661,
+        484,
+        1726
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        1748,
+        142,
+        1806
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        158,
+        1748,
+        256,
+        1806
+      ]
+    },
+    {
+      "text": "剧情",
+      "description": "",
+      "bounds": [
+        272,
+        1748,
+        370,
+        1806
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        386,
+        1748,
+        459,
+        1797
+      ]
+    },
+    {
+      "text": "第5季",
+      "description": "",
+      "bounds": [
+        475,
+        1748,
+        592,
+        1806
+      ]
+    },
+    {
+      "text": "第4集 | 销声匿迹三年的简童执掌简…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1833,
+        778,
+        1885
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        1833,
+        778,
+        1885
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        1907,
+        449,
+        1956
+      ]
+    },
+    {
+      "text": "14.5万",
+      "description": "",
+      "bounds": [
+        956,
+        1293,
+        1056,
+        1342
+      ]
+    },
+    {
+      "text": "抢首评",
+      "description": "",
+      "bounds": [
+        943,
+        1486,
+        1069,
+        1534
+      ]
+    },
+    {
+      "text": "4270",
+      "description": "",
+      "bounds": [
+        943,
+        1684,
+        1069,
+        1728
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1877,
+        1069,
+        1926
+      ]
+    },
+    {
+      "text": "观看完整漫剧 全143集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        515,
+        2089
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ]
+    },
+    {
+      "text": "￼（番茄）微短剧备字（2026）第072364号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        790,
+        1047,
+        838
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ]
+    },
+    {
+      "text": "@泡面泡烂了没注意",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        3853,
+        435,
+        2121
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        3940,
+        142,
+        2121
+      ]
+    },
+    {
+      "text": "民国",
+      "description": "",
+      "bounds": [
+        158,
+        3940,
+        256,
+        2121
+      ]
+    },
+    {
+      "text": "重生",
+      "description": "",
+      "bounds": [
+        272,
+        3940,
+        370,
+        2121
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        386,
+        3940,
+        459,
+        2121
+      ]
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        475,
+        3940,
+        573,
+        2121
+      ]
+    },
+    {
+      "text": "脑洞",
+      "description": "",
+      "bounds": [
+        589,
+        3940,
+        687,
+        2121
+      ]
+    },
+    {
+      "text": "傻千金变身复仇狠人《我的老公是少帅！》",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        4025,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        3116,
+        1062,
+        3229
+      ]
+    },
+    {
+      "text": "458",
+      "description": "",
+      "bounds": [
+        977,
+        3416,
+        1034,
+        2121
+      ]
+    },
+    {
+      "text": "2",
+      "description": "",
+      "bounds": [
+        943,
+        3608,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "450",
+      "description": "",
+      "bounds": [
+        943,
+        3799,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3996,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "漫剧 我的老公是少帅！ 全100集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        681,
+        2121
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ]
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        288,
+        80,
+        386,
+        151
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        441,
+        80,
+        539,
+        151
+      ]
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        594,
+        80,
+        692,
+        151
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        80,
+        2172,
+        172,
+        2240
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ]
+    }
+  ]
+}

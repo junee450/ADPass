@@ -1,0 +1,80 @@
+{
+  "time": 1791556828212,
+  "sample": 61,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "readMs": 2.1875,
+  "nodes": [
+    {
+      "text": "",
+      "description": "new-user-rights character background",
+      "bounds": [
+        155,
+        702,
+        925,
+        1511
+      ]
+    },
+    {
+      "text": "谢谢你来看我，一点小心意",
+      "description": "",
+      "bounds": [
+        246,
+        972,
+        834,
+        1043
+      ]
+    },
+    {
+      "text": "9627",
+      "description": "",
+      "bounds": [
+        371,
+        1071,
+        623,
+        1236
+      ]
+    },
+    {
+      "text": "金币",
+      "description": "",
+      "bounds": [
+        634,
+        1148,
+        710,
+        1203
+      ]
+    },
+    {
+      "text": "去福利页领取",
+      "description": "",
+      "bounds": [
+        408,
+        1286,
+        672,
+        1351
+      ]
+    },
+    {
+      "text": "以后不再提示",
+      "description": "",
+      "bounds": [
+        466,
+        1418,
+        664,
+        1456
+      ]
+    },
+    {
+      "text": "",
+      "description": "close button",
+      "bounds": [
+        485,
+        1599,
+        595,
+        1709
+      ]
+    }
+  ]
+}

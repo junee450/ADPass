@@ -1,0 +1,619 @@
+{
+  "time": 1791558618280,
+  "sample": 414,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 385.32325,
+  "nodes": [
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        0,
+        633,
+        -636
+      ]
+    },
+    {
+      "text": "@泡面泡烂了没注意",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        435,
+        -324
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        0,
+        142,
+        -244
+      ]
+    },
+    {
+      "text": "民国",
+      "description": "",
+      "bounds": [
+        158,
+        0,
+        256,
+        -244
+      ]
+    },
+    {
+      "text": "重生",
+      "description": "",
+      "bounds": [
+        272,
+        0,
+        370,
+        -244
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        386,
+        0,
+        459,
+        -253
+      ]
+    },
+    {
+      "text": "逆袭",
+      "description": "",
+      "bounds": [
+        475,
+        0,
+        573,
+        -244
+      ]
+    },
+    {
+      "text": "脑洞",
+      "description": "",
+      "bounds": [
+        589,
+        0,
+        687,
+        -244
+      ]
+    },
+    {
+      "text": "傻千金变身复仇狠人《我的老公是少帅！》",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        0,
+        778,
+        -165
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        -1126,
+        1062,
+        -1013
+      ]
+    },
+    {
+      "text": "458",
+      "description": "",
+      "bounds": [
+        977,
+        0,
+        1034,
+        -782
+      ]
+    },
+    {
+      "text": "2",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -595
+      ]
+    },
+    {
+      "text": "450",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -399
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -197
+      ]
+    },
+    {
+      "text": "漫剧 我的老公是少帅！ 全100集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        0,
+        681,
+        -32
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        0,
+        461,
+        -32
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        1436,
+        633,
+        1485
+      ]
+    },
+    {
+      "text": "假病历与真婚约",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1661,
+        352,
+        1726
+      ]
+    },
+    {
+      "text": "异能",
+      "description": "",
+      "bounds": [
+        44,
+        1748,
+        44,
+        1748
+      ]
+    },
+    {
+      "text": "豪门",
+      "description": "",
+      "bounds": [
+        44,
+        1748,
+        142,
+        1806
+      ]
+    },
+    {
+      "text": "恋爱",
+      "description": "",
+      "bounds": [
+        158,
+        1748,
+        256,
+        1806
+      ]
+    },
+    {
+      "text": "都市",
+      "description": "",
+      "bounds": [
+        272,
+        1748,
+        370,
+        1806
+      ]
+    },
+    {
+      "text": "重生",
+      "description": "",
+      "bounds": [
+        386,
+        1748,
+        484,
+        1806
+      ]
+    },
+    {
+      "text": "3D",
+      "description": "",
+      "bounds": [
+        500,
+        1748,
+        573,
+        1797
+      ]
+    },
+    {
+      "text": "第1季",
+      "description": "",
+      "bounds": [
+        589,
+        1748,
+        706,
+        1806
+      ]
+    },
+    {
+      "text": "第1集 | 楚辞优重生在被强行切乳的…",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        1833,
+        778,
+        1885
+      ]
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/tv_expand",
+      "bounds": [
+        700,
+        1833,
+        778,
+        1885
+      ]
+    },
+    {
+      "text": "作者声明：内容由AI生成",
+      "description": "",
+      "id": "com.phoenix.read:id\/it2",
+      "bounds": [
+        88,
+        1907,
+        449,
+        1956
+      ]
+    },
+    {
+      "text": "30.7万",
+      "description": "",
+      "bounds": [
+        956,
+        1293,
+        1056,
+        1342
+      ]
+    },
+    {
+      "text": "497",
+      "description": "",
+      "bounds": [
+        943,
+        1488,
+        1069,
+        1527
+      ]
+    },
+    {
+      "text": "5.1万",
+      "description": "",
+      "bounds": [
+        943,
+        1677,
+        1069,
+        1726
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        1877,
+        1069,
+        1926
+      ]
+    },
+    {
+      "text": "观看完整漫剧 全151集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        2031,
+        515,
+        2089
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        2031,
+        461,
+        2089
+      ]
+    },
+    {
+      "text": "￼（番茄）微短剧备字（2026）第026509号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        790,
+        1047,
+        838
+      ]
+    },
+    {
+      "text": "全屏观看",
+      "description": "",
+      "id": "com.phoenix.read:id\/cvd",
+      "bounds": [
+        501,
+        3557,
+        633,
+        2121
+      ]
+    },
+    {
+      "text": "@枕月漫观",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        3927,
+        259,
+        2121
+      ]
+    },
+    {
+      "text": "第1集 | 岁晚情未歇01",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1h",
+      "bounds": [
+        44,
+        4025,
+        778,
+        2121
+      ]
+    },
+    {
+      "text": "",
+      "description": "avatar image",
+      "bounds": [
+        949,
+        3116,
+        1062,
+        3229
+      ]
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "bounds": [
+        973,
+        3415,
+        1039,
+        2121
+      ]
+    },
+    {
+      "text": "139",
+      "description": "",
+      "bounds": [
+        943,
+        3611,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "5387",
+      "description": "",
+      "bounds": [
+        943,
+        3801,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        3997,
+        1069,
+        2121
+      ]
+    },
+    {
+      "text": "合集 岁晚情未歇 更新至70集",
+      "description": "",
+      "id": "com.phoenix.read:id\/h_b",
+      "bounds": [
+        110,
+        4152,
+        620,
+        2121
+      ]
+    },
+    {
+      "text": "点击按钮可观看全集",
+      "description": "",
+      "id": "com.phoenix.read:id\/dan",
+      "bounds": [
+        110,
+        4152,
+        461,
+        2121
+      ]
+    },
+    {
+      "text": "关注",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        288,
+        80,
+        386,
+        151
+      ]
+    },
+    {
+      "text": "漫剧",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        441,
+        80,
+        539,
+        151
+      ]
+    },
+    {
+      "text": "推荐",
+      "description": "",
+      "id": "com.phoenix.read:id\/cx",
+      "bounds": [
+        594,
+        80,
+        692,
+        151
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        80,
+        2172,
+        172,
+        2240
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        496,
+        2173,
+        584,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ]
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ]
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ]
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ]
+    }
+  ]
+}

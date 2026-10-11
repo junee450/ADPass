@@ -1,0 +1,148 @@
+ad-countdown-finished.png #0 ad-ready confidence=81 ms=151.53 cold-init
+raw=六 上 滑 继 续 观 看 剧 集
+ad-countdown-finished.png #1 ad-ready confidence=81 ms=52.40 warm
+ad-countdown-finished.png #2 ad-ready confidence=81 ms=54.55 warm
+ad-original-paused.png #0 ad-ready confidence=85 ms=53.44 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad-original-paused.png #1 ad-ready confidence=85 ms=52.59 warm
+ad-original-paused.png #2 ad-ready confidence=85 ms=52.10 warm
+ad-phone-025.png #0 content confidence=87 ms=46.46 warm
+raw=会 上 滑 继 续 观 看 剧 集
+ad-phone-025.png #1 content confidence=87 ms=44.76 warm
+ad-phone-025.png #2 content confidence=87 ms=46.83 warm
+ad-phone-026.png #0 ad-ready confidence=83 ms=45.33 warm
+raw=入 上 滑 继 续 观 看 剧 集
+ad-phone-026.png #1 ad-ready confidence=83 ms=45.13 warm
+ad-phone-026.png #2 ad-ready confidence=83 ms=43.54 warm
+ad-phone-027.png #0 content confidence=91 ms=42.97 warm
+raw=: 上 滑 继 续 观看 剧 集
+ad-phone-027.png #1 content confidence=91 ms=40.17 warm
+ad-phone-027.png #2 content confidence=91 ms=40.36 warm
+ad-phone-028.png #0 content confidence=87 ms=41.50 warm
+raw=* 上 滑 继 续 观看 剧 集
+ad-phone-028.png #1 content confidence=87 ms=41.57 warm
+ad-phone-028.png #2 content confidence=87 ms=40.38 warm
+ad-phone-029.png #0 ad-waiting confidence=78 ms=47.79 warm
+raw=2 上 滑 继 续 观看 剧 集
+ad-phone-029.png #1 ad-waiting confidence=78 ms=47.16 warm
+ad-phone-029.png #2 ad-waiting confidence=78 ms=48.13 warm
+ad-phone-030.png #0 content confidence=86 ms=41.46 warm
+raw=: 上 滑 继 续 观 看 剧 集
+ad-phone-030.png #1 content confidence=86 ms=41.22 warm
+ad-phone-030.png #2 content confidence=86 ms=42.61 warm
+ad-phone-031.png #0 content confidence=85 ms=42.68 warm
+raw=> 上 滑 继 续 观 看 剧 集
+ad-phone-031.png #1 content confidence=85 ms=42.72 warm
+ad-phone-031.png #2 content confidence=85 ms=43.20 warm
+ad-phone-032.png #0 content confidence=85 ms=42.91 warm
+raw=全 上 滑 继 续 观 看 剧 集
+ad-phone-032.png #1 content confidence=85 ms=42.97 warm
+ad-phone-032.png #2 content confidence=85 ms=41.95 warm
+ad-swisse-popup.png #0 ad-ready confidence=86 ms=51.13 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad-swisse-popup.png #1 ad-ready confidence=86 ms=48.61 warm
+ad-swisse-popup.png #2 ad-ready confidence=86 ms=50.69 warm
+ad-swisse-ready-late.png #0 ad-ready confidence=85 ms=49.33 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad-swisse-ready-late.png #1 ad-ready confidence=85 ms=49.18 warm
+ad-swisse-ready-late.png #2 ad-ready confidence=85 ms=50.50 warm
+ad01-ad-00s.png #0 content confidence=77 ms=53.13 warm
+raw=六 上 消 继续 观看 剧 集
+ad01-ad-00s.png #1 content confidence=77 ms=49.73 warm
+ad01-ad-00s.png #2 content confidence=77 ms=52.32 warm
+ad01-ad-27s.png #0 content confidence=77 ms=49.79 warm
+raw=六 上 消 继续 观看 剧 集
+ad01-ad-27s.png #1 content confidence=77 ms=51.51 warm
+ad01-ad-27s.png #2 content confidence=77 ms=50.83 warm
+ad01-paused.png #0 content confidence=77 ms=50.19 warm
+raw=六 上 消 继续 观看 剧 集
+ad01-paused.png #1 content confidence=77 ms=49.03 warm
+ad01-paused.png #2 content confidence=77 ms=50.28 warm
+ad02-fresh-ad-00s.png #0 content confidence=72 ms=48.41 warm
+raw=六 上 滑 继续 观看 剧 集
+ad02-fresh-ad-00s.png #1 content confidence=72 ms=48.91 warm
+ad02-fresh-ad-00s.png #2 content confidence=72 ms=49.55 warm
+ad02-fresh-ad-27s.png #0 content confidence=72 ms=50.29 warm
+raw=六 上 滑 继续 观看 剧 集
+ad02-fresh-ad-27s.png #1 content confidence=72 ms=48.85 warm
+ad02-fresh-ad-27s.png #2 content confidence=72 ms=51.78 warm
+ad03-ad-00s.png #0 ad-ready confidence=86 ms=51.03 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad03-ad-00s.png #1 ad-ready confidence=86 ms=52.47 warm
+ad03-ad-00s.png #2 ad-ready confidence=86 ms=49.52 warm
+ad03-ad-27s.png #0 ad-ready confidence=86 ms=49.50 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad03-ad-27s.png #1 ad-ready confidence=86 ms=47.82 warm
+ad03-ad-27s.png #2 ad-ready confidence=86 ms=49.47 warm
+ad05-entry-ad-00s.png #0 content confidence=80 ms=48.66 warm
+raw=六 上 滑 继续 观看 剧 集
+ad05-entry-ad-00s.png #1 content confidence=80 ms=50.39 warm
+ad05-entry-ad-00s.png #2 content confidence=80 ms=49.00 warm
+ad05-entry-ad-27s.png #0 content confidence=80 ms=50.91 warm
+raw=六 上 滑 继续 观看 剧 集
+ad05-entry-ad-27s.png #1 content confidence=80 ms=50.87 warm
+ad05-entry-ad-27s.png #2 content confidence=80 ms=50.44 warm
+ad06-fresh-ad-00s.png #0 ad-ready confidence=88 ms=48.23 warm
+raw=入 上 滑 继续 观看 剧 集
+ad06-fresh-ad-00s.png #1 ad-ready confidence=88 ms=50.17 warm
+ad06-fresh-ad-00s.png #2 ad-ready confidence=88 ms=48.33 warm
+ad06-fresh-ad-27s.png #0 ad-ready confidence=88 ms=49.34 warm
+raw=入 上 滑 继续 观看 剧 集
+ad06-fresh-ad-27s.png #1 ad-ready confidence=88 ms=49.22 warm
+ad06-fresh-ad-27s.png #2 ad-ready confidence=88 ms=49.54 warm
+normal-controls.png #0 content confidence=0 ms=11.19 warm
+raw=
+normal-controls.png #1 content confidence=0 ms=10.11 warm
+normal-controls.png #2 content confidence=0 ms=11.29 warm
+normal-fullscreen.png #0 content confidence=0 ms=10.64 warm
+raw=
+normal-fullscreen.png #1 content confidence=0 ms=9.64 warm
+normal-fullscreen.png #2 content confidence=0 ms=10.67 warm
+waiting-native-3s.png #0 ad-waiting confidence=90 ms=49.78 warm
+raw=3s 后 可 继续 上 滑 观 看
+waiting-native-3s.png #1 ad-waiting confidence=90 ms=49.06 warm
+waiting-native-3s.png #2 ad-waiting confidence=90 ms=49.25 warm
+waiting-native-4s.png #0 ad-waiting confidence=92 ms=52.34 warm
+raw=4s 后 可 继续 上 滑 观 看
+waiting-native-4s.png #1 ad-waiting confidence=92 ms=49.34 warm
+waiting-native-4s.png #2 ad-waiting confidence=92 ms=50.62 warm
+waiting-native-7s.png #0 ad-waiting confidence=92 ms=48.88 warm
+raw=7s 后 可 继续 上 滑 观 看
+waiting-native-7s.png #1 ad-waiting confidence=92 ms=49.86 warm
+waiting-native-7s.png #2 ad-waiting confidence=92 ms=48.91 warm
+waiting-native-8s.png #0 ad-waiting confidence=91 ms=48.98 warm
+raw=8s 后 可 继续 上 滑 观 看
+waiting-native-8s.png #1 ad-waiting confidence=91 ms=49.62 warm
+waiting-native-8s.png #2 ad-waiting confidence=91 ms=50.92 warm
+waiting-phone-018.png #0 ad-waiting confidence=78 ms=47.04 warm
+raw=改 后 可 继续 上 滑 观 看
+waiting-phone-018.png #1 ad-waiting confidence=78 ms=48.26 warm
+waiting-phone-018.png #2 ad-waiting confidence=78 ms=46.60 warm
+waiting-phone-019.png #0 ad-waiting confidence=81 ms=46.90 warm
+raw=| 6s 后 可 继续 上 滑 观 看
+waiting-phone-019.png #1 ad-waiting confidence=81 ms=47.54 warm
+waiting-phone-019.png #2 ad-waiting confidence=81 ms=47.19 warm
+waiting-phone-020.png #0 ad-waiting confidence=90 ms=46.42 warm
+raw=| 5s 后 可 继续 上 滑 观 看
+waiting-phone-020.png #1 ad-waiting confidence=90 ms=46.78 warm
+waiting-phone-020.png #2 ad-waiting confidence=90 ms=48.91 warm
+waiting-phone-021.png #0 ad-waiting confidence=87 ms=46.66 warm
+raw=上 4s 后 可 继续 上 滑 观 看
+waiting-phone-021.png #1 ad-waiting confidence=87 ms=45.06 warm
+waiting-phone-021.png #2 ad-waiting confidence=87 ms=45.19 warm
+waiting-phone-022.png #0 ad-waiting confidence=87 ms=43.25 warm
+raw=as 后 可 继续 上 滑 观 看
+waiting-phone-022.png #1 ad-waiting confidence=87 ms=43.65 warm
+waiting-phone-022.png #2 ad-waiting confidence=87 ms=43.32 warm
+waiting-phone-023.png #0 ad-waiting confidence=87 ms=43.01 warm
+raw=2s 后 可 继续 上 滑 观 看
+waiting-phone-023.png #1 ad-waiting confidence=87 ms=44.64 warm
+waiting-phone-023.png #2 ad-waiting confidence=87 ms=43.19 warm
+waiting-phone-024.png #0 ad-waiting confidence=91 ms=50.08 warm
+raw=1s 后 可 继续 上 滑 观 看
+waiting-phone-024.png #1 ad-waiting confidence=91 ms=46.28 warm
+waiting-phone-024.png #2 ad-waiting confidence=91 ms=48.70 warm
+warm_count=107 median_ms=48.662333 p95_ms=52.397083
+process_pss_baseline_kb=5503 process_pss_after_kb=82746
+RESULT: FAIL failures=42
+

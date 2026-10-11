@@ -1,0 +1,451 @@
+{
+  "time": 1791699694853,
+  "sample": 190,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    2340,
+    1080
+  ],
+  "readMs": 47.110917,
+  "nodes": [
+    {
+      "text": "14:21",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        0,
+        1212,
+        -1009
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        0,
+        2012,
+        -1009
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿成穷秀才，我靠医术养全家 第1集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        0,
+        1850,
+        -909
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "6486",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        0,
+        376,
+        -74
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "抢首评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        0,
+        570,
+        -74
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        680,
+        0,
+        747,
+        -74
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        0,
+        1738,
+        -85
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        0,
+        1917,
+        -85
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        0,
+        2083,
+        -83
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "￼（番茄）微短剧备字（2026）第045062号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        0,
+        2274,
+        -966
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "14:21",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        27,
+        1212,
+        71
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        27,
+        2012,
+        71
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿成穷秀才，我靠医术养全家 第2集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        98,
+        1850,
+        171
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:00:46",
+      "description": "",
+      "id": "com.phoenix.read:id\/dvf",
+      "bounds": [
+        422,
+        836,
+        554,
+        880
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "00:02:36",
+      "description": "",
+      "id": "com.phoenix.read:id\/dv8",
+      "bounds": [
+        1918,
+        836,
+        2050,
+        880
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "2592",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        968,
+        376,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "79",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        968,
+        518,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        629,
+        964,
+        696,
+        1006
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        942,
+        1738,
+        995
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        942,
+        1917,
+        995
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        939,
+        2083,
+        997
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "14:21",
+      "description": "",
+      "id": "com.phoenix.read:id\/ge",
+      "bounds": [
+        1127,
+        1107,
+        1212,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "100%",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_u",
+      "bounds": [
+        1931,
+        1107,
+        2012,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "穿成穷秀才，我靠医术养全家 第3集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k8",
+      "bounds": [
+        341,
+        1178,
+        1850,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1449",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbl",
+      "bounds": [
+        312,
+        2048,
+        376,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "抢首评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jer",
+      "bounds": [
+        486,
+        2044,
+        570,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "4.2万",
+      "description": "",
+      "id": "com.phoenix.read:id\/kbj",
+      "bounds": [
+        680,
+        2044,
+        747,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "id": "com.phoenix.read:id\/hxh",
+      "bounds": [
+        1663,
+        2022,
+        1738,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "720P",
+      "description": "",
+      "id": "com.phoenix.read:id\/hx_",
+      "bounds": [
+        1826,
+        2022,
+        1917,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hwv",
+      "bounds": [
+        2005,
+        2019,
+        2083,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "￼（番茄）微短剧备字（2026）第045062号",
+      "description": "",
+      "id": "com.phoenix.read:id\/i0a",
+      "bounds": [
+        0,
+        1146,
+        2274,
+        1080
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

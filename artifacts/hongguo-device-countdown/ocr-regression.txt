@@ -1,0 +1,88 @@
+ad-countdown-finished.png #0 ad-ready confidence=85 ms=160.01 cold-init
+raw=六 上 滑 继续 观看 剧 集
+ad-countdown-finished.png #1 ad-ready confidence=85 ms=49.90 warm
+ad-countdown-finished.png #2 ad-ready confidence=85 ms=51.41 warm
+ad-original-paused.png #0 ad-ready confidence=87 ms=52.41 warm
+raw=入 上 滑 继续 观看 剧 集
+ad-original-paused.png #1 ad-ready confidence=87 ms=52.39 warm
+ad-original-paused.png #2 ad-ready confidence=87 ms=49.76 warm
+ad-swisse-popup.png #0 ad-ready confidence=85 ms=50.77 warm
+raw=六 上 滑 继续 观看 剧 集
+ad-swisse-popup.png #1 ad-ready confidence=85 ms=48.79 warm
+ad-swisse-popup.png #2 ad-ready confidence=85 ms=50.29 warm
+ad-swisse-ready-late.png #0 ad-ready confidence=87 ms=48.54 warm
+raw=入 上 滑 继续 观看 剧 集
+ad-swisse-ready-late.png #1 ad-ready confidence=87 ms=49.29 warm
+ad-swisse-ready-late.png #2 ad-ready confidence=87 ms=50.66 warm
+ad01-ad-00s.png #0 ad-ready confidence=85 ms=52.05 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad01-ad-00s.png #1 ad-ready confidence=85 ms=50.96 warm
+ad01-ad-00s.png #2 ad-ready confidence=85 ms=49.81 warm
+ad01-ad-27s.png #0 ad-ready confidence=85 ms=49.10 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad01-ad-27s.png #1 ad-ready confidence=85 ms=49.31 warm
+ad01-ad-27s.png #2 ad-ready confidence=85 ms=48.83 warm
+ad01-paused.png #0 ad-ready confidence=85 ms=51.75 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad01-paused.png #1 ad-ready confidence=85 ms=50.76 warm
+ad01-paused.png #2 ad-ready confidence=85 ms=52.80 warm
+ad02-fresh-ad-00s.png #0 ad-ready confidence=85 ms=50.19 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad02-fresh-ad-00s.png #1 ad-ready confidence=85 ms=50.99 warm
+ad02-fresh-ad-00s.png #2 ad-ready confidence=85 ms=50.58 warm
+ad02-fresh-ad-27s.png #0 ad-ready confidence=85 ms=50.84 warm
+raw=六 上 滑 继 续 观 看 剧 集
+ad02-fresh-ad-27s.png #1 ad-ready confidence=85 ms=50.55 warm
+ad02-fresh-ad-27s.png #2 ad-ready confidence=85 ms=49.22 warm
+ad03-ad-00s.png #0 ad-ready confidence=87 ms=53.03 warm
+raw=入 上 滑 继续 观看 剧 集
+ad03-ad-00s.png #1 ad-ready confidence=87 ms=55.20 warm
+ad03-ad-00s.png #2 ad-ready confidence=87 ms=51.14 warm
+ad03-ad-27s.png #0 ad-ready confidence=87 ms=50.01 warm
+raw=入 上 滑 继续 观看 剧 集
+ad03-ad-27s.png #1 ad-ready confidence=87 ms=50.34 warm
+ad03-ad-27s.png #2 ad-ready confidence=87 ms=50.26 warm
+ad05-entry-ad-00s.png #0 ad-ready confidence=83 ms=48.43 warm
+raw=入 上 滑 继 续 观 看 剧 集
+ad05-entry-ad-00s.png #1 ad-ready confidence=83 ms=51.03 warm
+ad05-entry-ad-00s.png #2 ad-ready confidence=83 ms=49.38 warm
+ad05-entry-ad-27s.png #0 ad-ready confidence=83 ms=53.24 warm
+raw=入 上 滑 继 续 观 看 剧 集
+ad05-entry-ad-27s.png #1 ad-ready confidence=83 ms=51.63 warm
+ad05-entry-ad-27s.png #2 ad-ready confidence=83 ms=51.55 warm
+ad06-fresh-ad-00s.png #0 ad-ready confidence=86 ms=48.81 warm
+raw=全 上 滑 继续 观看 剧 集
+ad06-fresh-ad-00s.png #1 ad-ready confidence=86 ms=49.19 warm
+ad06-fresh-ad-00s.png #2 ad-ready confidence=86 ms=48.07 warm
+ad06-fresh-ad-27s.png #0 ad-ready confidence=86 ms=49.54 warm
+raw=全 上 滑 继续 观看 剧 集
+ad06-fresh-ad-27s.png #1 ad-ready confidence=86 ms=50.79 warm
+ad06-fresh-ad-27s.png #2 ad-ready confidence=86 ms=53.16 warm
+normal-controls.png #0 content confidence=0 ms=14.21 warm
+raw=
+normal-controls.png #1 content confidence=0 ms=13.05 warm
+normal-controls.png #2 content confidence=0 ms=11.87 warm
+normal-fullscreen.png #0 content confidence=0 ms=12.06 warm
+raw=
+normal-fullscreen.png #1 content confidence=0 ms=10.24 warm
+normal-fullscreen.png #2 content confidence=0 ms=10.82 warm
+waiting-native-3s.png #0 ad-waiting confidence=86 ms=51.68 warm
+raw=3s 后 可 继续 上 滑 观看
+waiting-native-3s.png #1 ad-waiting confidence=86 ms=49.40 warm
+waiting-native-3s.png #2 ad-waiting confidence=86 ms=49.14 warm
+waiting-native-4s.png #0 ad-waiting confidence=92 ms=51.42 warm
+raw=4s 后 可 继续 上 滑 观 看
+waiting-native-4s.png #1 ad-waiting confidence=92 ms=52.50 warm
+waiting-native-4s.png #2 ad-waiting confidence=92 ms=52.80 warm
+waiting-native-7s.png #0 ad-waiting confidence=90 ms=53.04 warm
+raw=7s 后 可 继续 上 滑 观 看
+waiting-native-7s.png #1 ad-waiting confidence=90 ms=50.86 warm
+waiting-native-7s.png #2 ad-waiting confidence=90 ms=49.02 warm
+waiting-native-8s.png #0 ad-waiting confidence=89 ms=50.19 warm
+raw=8s 后 可 继续 上 滑 观 看
+waiting-native-8s.png #1 ad-waiting confidence=89 ms=48.15 warm
+waiting-native-8s.png #2 ad-waiting confidence=89 ms=49.66 warm
+warm_count=62 median_ms=50.287208 p95_ms=53.042125
+process_pss_baseline_kb=5527 process_pss_after_kb=77433
+RESULT: PASS failures=0
+

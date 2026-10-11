@@ -1,0 +1,987 @@
+{
+  "time": 1791559389939,
+  "sample": 355,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": true,
+  "kind": "content",
+  "window": [
+    0,
+    0,
+    1080,
+    2340
+  ],
+  "readMs": 175.356875,
+  "nodes": [
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        0,
+        528,
+        -305
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        0,
+        211,
+        -214
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "让我们一起祝《出狱后，厉先生宠她上瘾》大爆大爆大爆[爱慕][爱慕][爱慕]",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        0,
+        666,
+        -214
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        0,
+        778,
+        -214
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        0,
+        1056,
+        -801
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "463",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -616
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.4万",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -417
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        0,
+        1069,
+        -217
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        0,
+        166,
+        -48
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        0,
+        469,
+        -48
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        1904,
+        528,
+        1969
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        2002,
+        211,
+        2060
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "爷爷助攻达人，喜剧担当，哈哈哈哈，好喜欢",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        2002,
+        666,
+        2060
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        2002,
+        778,
+        2060
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        1424,
+        1056,
+        1473
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "476",
+      "description": "",
+      "bounds": [
+        943,
+        1619,
+        1069,
+        1658
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.5万",
+      "description": "",
+      "bounds": [
+        943,
+        1808,
+        1069,
+        1857
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        2008,
+        1069,
+        2057
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        2168,
+        166,
+        2226
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        2168,
+        469,
+        2226
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/d4",
+      "bounds": [
+        44,
+        4178,
+        528,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "热评：",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7c",
+      "bounds": [
+        94,
+        4276,
+        211,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "王彦鑫，郑晨雨，英宝，好喜欢的组合",
+      "description": "",
+      "id": "com.phoenix.read:id\/e7_",
+      "bounds": [
+        211,
+        4276,
+        666,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/dej",
+      "bounds": [
+        700,
+        4276,
+        778,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "70.6万",
+      "description": "",
+      "bounds": [
+        956,
+        3698,
+        1056,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "618",
+      "description": "",
+      "bounds": [
+        943,
+        3893,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.7万",
+      "description": "",
+      "bounds": [
+        943,
+        4082,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "分享",
+      "description": "",
+      "bounds": [
+        943,
+        4282,
+        1069,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "选集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kea",
+      "bounds": [
+        88,
+        4442,
+        166,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": " · 已完结 · 全80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/kgy",
+      "bounds": [
+        166,
+        4442,
+        469,
+        2274
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "第22集",
+      "description": "",
+      "id": "com.phoenix.read:id\/k_4",
+      "bounds": [
+        121,
+        136,
+        720,
+        257
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "1.0x",
+      "description": "",
+      "bounds": [
+        841,
+        170,
+        915,
+        222
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/i42",
+      "bounds": [
+        1399,
+        301,
+        1080,
+        381
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "全80集",
+      "description": "",
+      "bounds": [
+        1399,
+        409,
+        1080,
+        465
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "红果热度值3986万",
+      "description": "",
+      "bounds": [
+        1533,
+        409,
+        1080,
+        465
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "郑晨雨",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1454,
+        498,
+        1080,
+        554
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "王彦鑫",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1688,
+        498,
+        1080,
+        554
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "李百万",
+      "description": "",
+      "id": "com.phoenix.read:id\/b5b",
+      "bounds": [
+        1922,
+        498,
+        1080,
+        554
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "简介",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3e",
+      "bounds": [
+        1124,
+        692,
+        1080,
+        757
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "现代",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "灰姑娘",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        685
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "爱情",
+      "description": "",
+      "bounds": [
+        1245,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "都市爱情",
+      "description": "",
+      "bounds": [
+        1377,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "日久生情",
+      "description": "",
+      "bounds": [
+        1575,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "真相大白",
+      "description": "",
+      "bounds": [
+        1773,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "总裁",
+      "description": "",
+      "bounds": [
+        1971,
+        685,
+        1080,
+        765
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "黎小禾，一个命运多舛的女子，为替弟弟顶罪锒铛入狱。狱中，她受尽家人冷漠，独自承受生子之痛，孩子却阴差阳错与她分离。出狱后，她以为人生只剩灰暗，却…",
+      "description": "",
+      "id": "com.phoenix.read:id\/i3d",
+      "bounds": [
+        1124,
+        785,
+        1080,
+        981
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "展开",
+      "description": "",
+      "id": "com.phoenix.read:id\/i4t",
+      "bounds": [
+        2038,
+        923,
+        1080,
+        981
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧集",
+      "description": "",
+      "id": "com.phoenix.read:id\/title",
+      "bounds": [
+        1124,
+        1072,
+        1080,
+        1137
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "已完结 共80集",
+      "description": "",
+      "id": "com.phoenix.read:id\/hz2",
+      "bounds": [
+        1880,
+        1080,
+        1080,
+        1129
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "1-30",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1080,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "31-60",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1271,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "61-80",
+      "description": "",
+      "id": "com.phoenix.read:id\/h1p",
+      "bounds": [
+        1480,
+        1148,
+        1080,
+        1275
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "19",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1080,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "20",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1239,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "21",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1408,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "22",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1577,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "23",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1746,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "24",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        1915,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "25",
+      "description": "",
+      "id": "com.phoenix.read:id\/jk6",
+      "bounds": [
+        2084,
+        1332,
+        1080,
+        1385
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "剧评",
+      "description": "",
+      "id": "com.phoenix.read:id\/jx0",
+      "bounds": [
+        1124,
+        1554,
+        1080,
+        1619
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "未开分",
+      "description": "",
+      "id": "com.phoenix.read:id\/j_n",
+      "bounds": [
+        1168,
+        1724,
+        1080,
+        1772
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "红果分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k2z",
+      "bounds": [
+        1365,
+        1696,
+        1080,
+        1744
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "点击或滑动评分",
+      "description": "",
+      "id": "com.phoenix.read:id\/k7z",
+      "bounds": [
+        1747,
+        1685,
+        1080,
+        1734
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "出狱后，厉先生宠她上瘾",
+      "description": "",
+      "id": "com.phoenix.read:id\/k9t",
+      "bounds": [
+        1080,
+        136,
+        1080,
+        257
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "收藏",
+      "description": "",
+      "id": "com.phoenix.read:id\/c88",
+      "bounds": [
+        1349,
+        2163,
+        1080,
+        2221
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "继续播放",
+      "description": "",
+      "id": "com.phoenix.read:id\/gq3",
+      "bounds": [
+        1819,
+        2163,
+        1080,
+        2221
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "立即领取",
+      "description": "",
+      "bounds": [
+        894,
+        389,
+        1048,
+        444
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": true
+    },
+    {
+      "text": "元",
+      "description": "",
+      "bounds": [
+        1048,
+        369,
+        1054,
+        402
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "一起追剧好有趣",
+      "description": "",
+      "id": "com.phoenix.read:id\/d",
+      "bounds": [
+        971,
+        299,
+        1026,
+        355
+      ],
+      "visible": false,
+      "class": "android.widget.TextView",
+      "clickable": false
+    },
+    {
+      "text": "得2888",
+      "description": "",
+      "id": "com.phoenix.read:id\/k99",
+      "bounds": [
+        971,
+        355,
+        1026,
+        411
+      ],
+      "visible": true,
+      "class": "android.widget.TextView",
+      "clickable": false
+    }
+  ]
+}

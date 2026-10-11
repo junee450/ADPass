@@ -1,0 +1,4 @@
+PASS: 25 confirmation and action-gate checks
+PASS: 22 visual prompt and countdown checks
+PASS: 22 one-attempt and return-verification checks
+PASS: 66 recorded page fixtures

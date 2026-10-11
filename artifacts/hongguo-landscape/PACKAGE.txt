@@ -1,0 +1,53 @@
+ADSkip 0.2.0
+versionCode=3
+Bytes=26111022
+SHA-256=0433e01e12e519b82f3d76a389f3e9ea6a953c48a5fabe635498d3da7bcbae30
+
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=ADPass Preview
+Signer #1 certificate SHA-256 digest: c5f670e466db719a708d0c0482e3a714e6c8814f7e3db34ea579964e53a81c82
+Signer #1 certificate SHA-1 digest: e3824249224a15e61986326a508cfbdef0bbd549
+Signer #1 certificate MD5 digest: 128284930a4dbee740a34b23c1a7ffc0
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: 7ca3e4610aebd1cb6fd3891d18228635cfaaa88bbd8968e12e0f13553daf9106
+Signer #1 public key SHA-1 digest: 36e00accc86e088d87b12240381699f8acc3f404
+Signer #1 public key MD5 digest: 150747cbf132a9e079b26bfe5fdf03ce
+
+Permissions:
+package: io.adpass.app
+uses-permission: name='android.permission.POST_NOTIFICATIONS'
+
+Native libraries:
+lib/armeabi-v7a/libleptonica.so
+lib/armeabi-v7a/libpngx.so
+lib/armeabi-v7a/libjpeg.so
+lib/armeabi-v7a/libtesseract.so
+lib/x86/libleptonica.so
+lib/x86/libpngx.so
+lib/x86/libjpeg.so
+lib/x86/libtesseract.so
+lib/arm64-v8a/libleptonica.so
+lib/arm64-v8a/libpngx.so
+lib/arm64-v8a/libjpeg.so
+lib/arm64-v8a/libtesseract.so
+lib/x86_64/libleptonica.so
+lib/x86_64/libpngx.so
+lib/x86_64/libjpeg.so
+lib/x86_64/libtesseract.so
+
+Licenses:
+assets/licenses/Leptonica.txt
+assets/licenses/NOTICE.txt
+assets/licenses/Tesseract.txt
+assets/licenses/Tesseract4Android.txt
+assets/licenses/libjpeg-README.txt
+assets/licenses/libpng.txt
+assets/licenses/tessdata-best.txt

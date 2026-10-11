@@ -1,0 +1,5 @@
+ad-now: ad-ready confidence=87 text=入 上 滑 继续 观看 剧 集||广告 Y||上
+fullscreen: content confidence=0 text=
+next-title: ad-waiting confidence=30 text=24||100% 到)||生||己||生
+RESULT: PASS (3 OCR fixtures, failures=0)
+

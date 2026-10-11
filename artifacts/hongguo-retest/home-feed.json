@@ -1,0 +1,156 @@
+{
+  "time": 1791558570335,
+  "sample": 374,
+  "package": "com.phoenix.read",
+  "matched": false,
+  "auto": false,
+  "readMs": 224.29175,
+  "nodes": [
+    {
+      "text": "",
+      "description": "发现更多优价好物，搜索栏",
+      "bounds": [
+        40,
+        66,
+        942,
+        170
+      ]
+    },
+    {
+      "text": "",
+      "description": "我的订单 按钮",
+      "bounds": [
+        58,
+        221,
+        248,
+        371
+      ]
+    },
+    {
+      "text": "",
+      "description": "卡券\/红包 按钮",
+      "bounds": [
+        248,
+        221,
+        438,
+        371
+      ]
+    },
+    {
+      "text": "",
+      "description": "国家补贴 按钮",
+      "bounds": [
+        438,
+        221,
+        628,
+        371
+      ]
+    },
+    {
+      "text": "",
+      "description": "我的钱包 按钮",
+      "bounds": [
+        628,
+        221,
+        818,
+        371
+      ]
+    },
+    {
+      "text": "",
+      "description": "评价 按钮",
+      "bounds": [
+        818,
+        221,
+        1008,
+        371
+      ]
+    },
+    {
+      "text": "298",
+      "description": "",
+      "bounds": [
+        456,
+        1088,
+        507,
+        1129
+      ]
+    },
+    {
+      "text": "551",
+      "description": "",
+      "bounds": [
+        974,
+        1818,
+        1025,
+        1859
+      ]
+    },
+    {
+      "text": "首页",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        82,
+        2173,
+        170,
+        2238
+      ]
+    },
+    {
+      "text": "剧场",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        289,
+        2173,
+        377,
+        2238
+      ]
+    },
+    {
+      "text": "商城",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        494,
+        2172,
+        586,
+        2240
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        704,
+        2173,
+        792,
+        2238
+      ]
+    },
+    {
+      "text": "赚钱",
+      "description": "",
+      "id": "com.phoenix.read:id\/g_u",
+      "bounds": [
+        776,
+        2156,
+        846,
+        2200
+      ]
+    },
+    {
+      "text": "我的",
+      "description": "",
+      "id": "com.phoenix.read:id\/gbx",
+      "bounds": [
+        911,
+        2173,
+        999,
+        2238
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        ac87d83 io.adpass.app/.MainActivity filter 3ed8b00
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Service Resolver Table:
+  Non-Data Actions:
+      android.accessibilityservice.AccessibilityService:
+        e7e5f39 io.adpass.app/.SkipService filter be8197e permission android.permission.BIND_ACCESSIBILITY_SERVICE
+          Action: "android.accessibilityservice.AccessibilityService"
+
+Domain verification status:
+
+Key Set Manager:
+  [io.adpass.app]
+      Signing KeySets: 58
+
+Packages:
+  Package [io.adpass.app] (c658374):
+    appId=10194
+    pkg=Package{4fe809d io.adpass.app}
+    codePath=/data/app/~~KdnbggMZBPOFnCMSbcU8CA==/io.adpass.app-FZRyxilwUukz6UlR5nmOqg==
+    resourcePath=/data/app/~~KdnbggMZBPOFnCMSbcU8CA==/io.adpass.app-FZRyxilwUukz6UlR5nmOqg==
+    legacyNativeLibraryDir=/data/app/~~KdnbggMZBPOFnCMSbcU8CA==/io.adpass.app-FZRyxilwUukz6UlR5nmOqg==/lib
+    extractNativeLibs=true
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=5 minSdk=26 targetSdk=34
+    minExtensionVersions=[]
+    versionName=0.2.2
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=4
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[com.phoenix.read]
+    dataDir=/data/user/0/io.adpass.app
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2026-10-11 19:04:43
+    lastUpdateTime=2026-10-11 19:04:43
+    installerPackageName=null
+    installerPackageUid=-1
+    initiatingPackageName=com.android.shell
+    originatingPackageName=null
+    packageSource=1
+    loadingProgress=100%
+    loadingCompletedTime=2026-10-09 23:58:49
+    appMetadataFilePath=null
+    signatures=PackageSignatures{e056126 version:4, signatures:[2f39e59f], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ]
+    privatePkgFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    apexModuleName=null
+    requested permissions:
+      android.permission.POST_NOTIFICATIONS
+    User 0: ceDataInode=197824 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      installReason=0
+      firstInstallTime=2026-10-09 23:58:49
+      uninstallReason=0
+      overlay paths:
+        /product/overlay/EmulationPixel5/EmulationPixel5Overlay.apk
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      legacy overlay paths:
+        /product/overlay/EmulationPixel5/EmulationPixel5Overlay.apk
+        /product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=true, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+
+Queries:
+  system apps queryable: false
+  queries via forceQueryable:
+  queries via package name:
+    io.adpass.app:
+      com.phoenix.read
+  queries via component:
+    com.google.android.settings.intelligence:
+      io.adpass.app
+  queryable via interaction:
+    User 0:
+  queryable via uses-library:
+
+Dexopt state:
+  [io.adpass.app]
+    path: /data/app/~~KdnbggMZBPOFnCMSbcU8CA==/io.adpass.app-FZRyxilwUukz6UlR5nmOqg==/base.apk
+      arm64: [status=run-from-apk] [reason=unknown] [primary-abi]
+        [location is error]
+
+Compiler stats:
+  [io.adpass.app]
+    (No recorded stats)

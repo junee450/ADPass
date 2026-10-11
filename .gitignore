@@ -1,0 +1,14 @@
+.local/
+artifacts/hongguo-verification/*.log
+
+# Local caches and signing credentials
+.DS_Store
+__pycache__/
+*.py[cod]
+*.keystore
+*.jks
+.env
+.env.*
+
+# APK signing sidecars (the APKs themselves are versioned)
+*.apk.idsig
